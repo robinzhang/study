@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="bottom" android:background="#00000000">
+    <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/titleLayout">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/file_title_caption" android:id="@+id/titleCaption" android:layout_gravity="center_vertical" android:textSize="20dp"></TextView>
+        <TextView android:layout_height="wrap_content" android:text="   " android:layout_width="fill_parent" android:layout_weight="1" android:layout_gravity="center_vertical" android:id="@+id/fileTitle" android:textSize="20dp"></TextView>
+        <ImageButton android:id="@+id/buttonSelectFile" android:layout_width="wrap_content" android:layout_gravity="right|center_vertical" android:onClick="OnSelectFile" android:layout_height="wrap_content" android:src="@drawable/folder_open" android:background="#00000000"></ImageButton>
+    </LinearLayout>
+    <EditText android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:id="@+id/editLyric" android:editable="false" android:clickable="true" android:cursorVisible="true" android:onClick="OnLyricClick" android:scrollbars="vertical" android:scrollHorizontally="false" android:scrollbarAlwaysDrawVerticalTrack="true" android:fadeScrollbars="false" android:scrollbarStyle="outsideOverlay" android:textIsSelectable="true"></EditText>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/controllerLayout">
+        <ImageButton android:layout_height="wrap_content" android:id="@+id/buttonPrev" android:layout_weight="1" android:layout_width="fill_parent" android:onClick="OnOperationButtonClick" android:background="#00000000" android:src="@drawable/prev_selector"></ImageButton>
+        <ImageButton android:id="@+id/buttonStop" android:onClick="OnOperationButtonClick" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:background="#00000000" android:src="@drawable/stop_selector"></ImageButton>
+        <ImageButton android:layout_height="wrap_content" android:id="@+id/buttonPlay" android:layout_weight="1" android:layout_width="fill_parent" android:onClick="OnOperationButtonClick" android:background="#00000000" android:src="@drawable/play_selector"></ImageButton>
+        <ImageButton android:layout_height="wrap_content" android:layout_weight="1" android:layout_width="fill_parent" android:onClick="OnOperationButtonClick" android:background="#00000000" android:id="@+id/buttonPause" android:src="@drawable/pause_selector"></ImageButton>
+        <ImageButton android:layout_height="wrap_content" android:id="@+id/buttonNext" android:layout_weight="1" android:layout_width="fill_parent" android:onClick="OnOperationButtonClick" android:background="#00000000" android:src="@drawable/next_selector"></ImageButton>
+    </LinearLayout>
+</LinearLayout>

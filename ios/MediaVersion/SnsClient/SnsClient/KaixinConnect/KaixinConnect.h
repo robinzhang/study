@@ -1,0 +1,5 @@
+#include "Kaixin.h"
+#include "KaixinDialog.h"
+#include "KaixinLoginDialog.h"
+#include "KaixinRequest.h"
+#include "SBJSON.h"

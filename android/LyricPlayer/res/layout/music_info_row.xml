@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/music_row"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent">
+     <TextView
+     android:id="@+id/music_title"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentTop="true"
+     android:textSize="20dip"
+     android:text="TextView" android:layout_gravity="center_vertical"/>
+     <TextView
+        android:id="@+id/lyric_comma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textSize="16dip"
+        android:text="," android:layout_gravity="center_vertical"/>
+     <TextView
+        android:id="@+id/music_duration"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textSize="16dip"
+        android:text="" android:layout_gravity="center_vertical" android:layout_weight="1"/>
+
+    <CheckBox
+         android:id="@+id/checkBox"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="right"/>
+    
+</LinearLayout>

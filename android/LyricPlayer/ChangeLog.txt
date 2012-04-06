@@ -1,0 +1,5 @@
+Ver1.21 2011/9/13 
+问题描述：
+播放中来电话时，如果按下线控器上的ONHOOK键，本来应该是接电话，但是却唤醒了音乐吧播放。
+修改内容：
+MediaButtonReceiver.onReceive增加判断条件，只在电话空闲状态时才处理MEDIA_BUTTON

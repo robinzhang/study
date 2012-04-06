@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="2"
+      android:versionName="1.5" package="LyricPlayer.xwg">
+   <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="8" />
+   <uses-permission android:name="android.permission.WAKE_LOCK"/>
+   <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <application android:label="@string/app_name" android:icon="@drawable/lyric">
+        <activity android:name=".LyricMain"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SelectFileActivity"></activity>
+        <activity android:name=".SelectMusicActivity"></activity>
+        <activity android:name=".SelectLyricActivity"></activity>
+		<service android:name= ".LyricPlayerService"  android:exported= "true"  >   
+           <intent-filter>   
+              <action android:name="LyricPlayer.xwg.musicplaybackservice"  />   
+              <action android:name="MediaPlayer.xwg.action.PLAY_PAUSE" />
+              <action android:name="MediaPlayer.xwg.action.PAUSE" />
+              <action android:name="MediaPlayer.xwg.action.PREVIOUS" />
+              <action android:name="MediaPlayer.xwg.action.NEXT" />
+           </intent-filter>       
+		</service>  
+		<receiver android:name="MediaButtonReceiver">
+            <intent-filter>        
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".MusicIntentReceiver">
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".PhoneStateReceiver"> 
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE"/>
+           </intent-filter> 
+        </receiver> 
+        
+    </application>
+</manifest>

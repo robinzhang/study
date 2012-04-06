@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SubtitleMain!</string>
+    <string name="app_name">LyricPlayer</string>
+    <string name="menu_play"> &gt;/||</string>
+    <string name="menu_stop">[]</string>
+    <string name="menu_show_controller">Show Controller</string>
+    <string name="local_service_connected">local_service_connected</string>
+    <string name="local_service_disconnected">local_service_disconnected</string>
+    <string name="file_title_caption">Title:</string>
+    <string name="select_file_btn_caption">...</string>
+    <string name="local_service_started">local_service_started</string>
+    <string name="media_player_label">Lyric Player</string>
+    <string name="find_file_info">To find media files, select menu.</string>
+</resources>

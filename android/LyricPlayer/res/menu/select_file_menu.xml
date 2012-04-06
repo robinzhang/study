@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_item_play_selection" android:title="Play">
+        <menu>
+            <item android:id="@+id/menu_item_normal" android:title="Normal" /><item android:id="@+id/menu_item_repeat" android:title="Repeat" /><item android:id="@+id/menu_item_random" android:title="Random"/>
+            
+            
+        </menu>
+    </item>
+    <item android:id="@+id/menu_item_seek_music" android:title="Seek media files">
+    </item>
+   
+
+    
+
+</menu>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:id="@android:id/tabhost" android:layout_width="fill_parent"  
+    android:layout_height="fill_parent">  
+    <LinearLayout android:orientation="vertical"  
+        android:layout_width="fill_parent" android:layout_height="fill_parent">  
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textSize="20dip" android:layout_gravity="top"/>
+  
+        <FrameLayout android:id="@android:id/tabcontent"  
+            android:layout_width="fill_parent" android:layout_height="fill_parent">  
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/all_music"
+		          android:orientation="vertical"
+		          android:layout_width="fill_parent"
+		          android:layout_height="fill_parent">
+		          <ListView android:id="@+id/all_music_list"
+		              android:layout_width="match_parent"
+		              android:layout_height="match_parent" >
+		          </ListView>
+		          <TextView android:id="@+id/all_music_empty" 
+		              android:layout_width="match_parent"
+		              android:layout_height="match_parent"
+		              android:text="Please seek media files from menu." android:gravity="center_vertical"/>
+		   </LinearLayout>
+		   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/recent_music"
+                  android:orientation="vertical"
+                  android:layout_width="fill_parent"
+                  android:layout_height="fill_parent">
+                  <ListView android:id="@+id/recent_music_list"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent" >
+                  </ListView>
+                  <TextView android:id="@+id/recent_music_empty" 
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:text="Recent file list." android:gravity="center_vertical"/>
+           </LinearLayout>  
+        </FrameLayout>  
+    </LinearLayout>  
+</TabHost> 
+    
