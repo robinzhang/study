@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Sources/TTDefaultStyleSheet.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTDefaultStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/UIColorAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTDefaultStyleSheet+DragRefreshHeader.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTInsetStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTShapeStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTSolidFillStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTTextStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTImageStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTSolidBorderStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTShadowStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTInnerShadowStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTBevelBorderStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTLinearGradientFillStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTFourBorderStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTLinearGradientBorderStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTReflectiveFillStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTBoxStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTPosition.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTPartStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTContentStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTBlendStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTRectangleShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTRoundedRectangleShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTRoundedLeftArrowShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTRoundedRightArrowShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h

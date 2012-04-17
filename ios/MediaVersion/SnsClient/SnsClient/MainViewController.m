@@ -34,10 +34,10 @@
 -(void)setLogonUrls
 {
     [self setTabURLs:[NSArray arrayWithObjects:
-                      @"tt://share",
-                      @"tt://localnews",
-                      @"tt://publish",
+                      @"tt://localnews", 
+                      @"tt://publish", 
                       @"tt://mygroup",
+                      @"tt://share",  
                       @"tt://ucenter",
                       nil]];
 }
@@ -46,11 +46,11 @@
 -(void)setLogoutUrls
 {
     [self setTabURLs:[NSArray arrayWithObjects:
-                      @"tt://share",
-                      @"tt://localnews",
-                      @"tt://publish",
+                      @"tt://localnews",  
+                      @"tt://publish", 
                       @"tt://mygroup",
-                      @"tt://logon",
+                      @"tt://share", 
+                      @"tt://ucenter",
                       nil]];
 }
 

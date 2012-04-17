@@ -1,0 +1,641 @@
+TThree20Network
+v5
+r1
+cCheck dependencies
+cCpHeader Headers/TTURLRequestQueueInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+cCpHeader Headers/TTRequestLoader.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+cCpHeader Headers/TTGlobalNetwork.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+cCpHeader Headers/Three20Network.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h
+cCpHeader Headers/TTUserInfo.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h
+cCpHeader Headers/TTModelDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h
+cCpHeader Headers/TTURLCache.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h
+cCpHeader Headers/TTModel.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h
+cCpHeader Headers/TTURLDataResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+cCpHeader Headers/TTURLImageResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+cCpHeader Headers/TTURLRequest.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h
+cCpHeader Headers/TTURLRequestCachePolicy.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+cCpHeader Headers/TTURLRequestModel.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+cCpHeader Headers/TTURLRequestQueue.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+cCpHeader Headers/TTURLRequestDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+cCpHeader Headers/TTURLResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h
+cCpHeader Headers/TTErrorCodes.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTErrorCodes.h
+cPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90D70000000000001534
+t1333694679
+s5428
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSArrayAdditions.h
+c000000004F88DC290000000000000788
+t1334369321
+s1928
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSDataAdditions.h
+c000000004F88DC290000000000000527
+t1334369321
+s1319
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSObjectAdditions.h
+c000000004F88DC290000000000000574
+t1334369321
+s1396
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSStringAdditions.h
+c000000004F88DC290000000000001020
+t1334369321
+s4128
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h
+c000000004F88DC2900000000000009FA
+t1334369321
+s2554
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h
+c000000004F88DC290000000000000EC0
+t1334369321
+s3776
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebugFlags.h
+c000000004F88DC2900000000000004D6
+t1334369321
+s1238
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCore.h
+c000000004F88DC2900000000000005E6
+t1334369321
+s1510
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCorePaths.h
+c000000004F88DC2900000000000005D7
+t1334369321
+s1495
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTErrorCodes.h
+t1334369370
+s781
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+t1334369370
+s1405
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h
+t1334369370
+s3307
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h
+t1334369370
+s2216
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h
+t1334369370
+s6378
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+t1334369370
+s867
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+t1334369370
+s1076
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h
+t1334369370
+s8801
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+t1334369370
+s1231
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+t1334369370
+s1731
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+t1334369370
+s1804
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+t1334369370
+s3850
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h
+t1334369370
+s2117
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h
+t1334369370
+s1651
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h
+t1334369370
+s1419
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+t1334369370
+s3994
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+t1334369370
+s1366
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a
+t1334377805
+s313880
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o
+t1334377805
+s3732
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o
+t1334377805
+s5280
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o
+t1334377805
+s17452
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o
+t1334377805
+s45172
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o
+t1334377805
+s56136
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o
+t1334377805
+s11136
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o
+t1334377805
+s15620
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o
+t1334377805
+s58600
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o
+t1334377805
+s22816
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o
+t1334377805
+s61048
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o
+t1334377805
+s11120
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList
+c000000004F88FD4C000000000000071E
+t1334377804
+s1822
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+c000000004F88FD4C0000000000000026
+t1334377804
+s38
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTErrorCodes.h
+c000000004E2340CB000000000000030D
+t1310933195
+s781
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTGlobalNetwork.h
+c000000004E2340CB000000000000057D
+t1310933195
+s1405
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTModel.h
+c000000004E2340CB0000000000000CEB
+t1310933195
+s3307
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTModelDelegate.h
+c000000004E2340CB00000000000008A8
+t1310933195
+s2216
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTRequestLoader.h
+c000000004E2340CB0000000000000F9A
+t1310933195
+s3994
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLCache.h
+c000000004E2340CB00000000000018EA
+t1310933195
+s6378
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLDataResponse.h
+c000000004E2340CB0000000000000363
+t1310933195
+s867
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLImageResponse.h
+c000000004E2340CB0000000000000434
+t1310933195
+s1076
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequest.h
+c000000004E2340CB0000000000002261
+t1310933195
+s8801
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequestCachePolicy.h
+c000000004E2340CB00000000000004CF
+t1310933195
+s1231
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequestDelegate.h
+c000000004E2340CB00000000000006C3
+t1310933195
+s1731
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequestModel.h
+c000000004E2340CB000000000000070C
+t1310933195
+s1804
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequestQueue.h
+c000000004E2340CB0000000000000F0A
+t1310933195
+s3850
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLRequestQueueInternal.h
+c000000004E2340CB0000000000000556
+t1310933195
+s1366
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTURLResponse.h
+c000000004E2340CB0000000000000845
+t1310933195
+s2117
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/TTUserInfo.h
+c000000004E2340CB0000000000000673
+t1310933195
+s1651
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/Three20Network.h
+c000000004E2340CB000000000000058B
+t1310933195
+s1419
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/Three20Network_Prefix.pch
+c000000004E2340CB00000000000000A1
+t1310933195
+s161
+i<Foundation/Foundation.h>
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m
+c000000004E2340CB000000000000032B
+t1310933195
+s811
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m
+c000000004E2340CB0000000000000695
+t1310933195
+s1685
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m
+c000000004E2340CB0000000000001528
+t1310933195
+s5416
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m
+c000000004E2340CB0000000000003FD0
+t1310933195
+s16336
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m
+c000000004E2340CB0000000000005EA8
+t1310933195
+s24232
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m
+c000000004E2340CB0000000000000768
+t1310933195
+s1896
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m
+c000000004E2340CB0000000000000D0A
+t1310933195
+s3338
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m
+c000000004E2340CB00000000000037D2
+t1310933195
+s14290
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m
+c000000004E2340CB00000000000013E5
+t1310933195
+s5093
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m
+c000000004E2340CB0000000000005A8F
+t1310933195
+s23183
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m
+c000000004E2340CB0000000000000960
+t1310933195
+s2400
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth
+t1334377805
+s2415860
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies36052a326f3ab541^3c322a326f3ab541^---0#1#0#--18"Check dependencies36"D50B1E9A-6C42-4EBD-9593-97CFEDE8E8CC-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.314653
+e356070605.370725
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.md5b350cd3439b541^8e775fcd3439b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m0000000000000000^4131"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o Sources/TTErrorCodes.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTErrorCodes.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTErrorCodes.o36"AC333250-1E38-43A8-B9A4-03D64092268B-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142734
+e356070605.313221
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.mb6ba24cd3439b541^a03850cd3439b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m0000000000000000^4149"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTGlobalNetwork.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o36"ADCB7E35-DA9C-4859-B9BC-38522A8C853B-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142775
+e356070605.295100
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.maab924cd3439b541^c8944bcd3439b541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m0000000000000000^4101"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o Sources/TTModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTModel.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o36"D92B45E3-34F2-472B-BDC6-D87F53CA7DA0-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142800
+e356070605.419153
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m:103:16: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]
+o        _responseData = [[[dataSplit objectAtIndex:1] dataUsingEncoding:NSASCIIStringEncoding] retain];
+o                      ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:35:1: note: instance method 'retain' is assumed to return an instance of its receiver type ('NSData *')
+o- (id)retain NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m3eca24cd3439b541^e44c6bcd3439b541^-757"/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m:103:16: warning: incompatible pointer types assigning to 'NSMutableData *' from 'NSData *' [-Wincompatible-pointer-types]        _responseData = [[[dataSplit objectAtIndex:1] dataUsingEncoding:NSASCIIStringEncoding] retain];                      ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:35:1: note: instance method 'retain' is assumed to return an instance of its receiver type ('NSData *')- (id)retain NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@73"Incompatible pointer types assigning to 'NSMutableData *' from 'NSData *'-356070605#18446744073709551615#0#1(2@91"Instance method 'retain' is assumed to return an instance of its receiver type ('NSData *')-356070605#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@183"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^34#0#34#0#830#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m0000000000000000^102#15#102#15#3826#0#14"Semantic Issue1(3@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m0000000000000000^102#17#102#95#3828#77#-0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m0000000000000000^4149"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTRequestLoader.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o36"7A506F2C-51D1-444E-B584-D8E848F58C79-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142806
+e356070605.421581
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m55c124cd3439b541^96ed6bcd3439b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m0000000000000000^4119"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLCache.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o36"27CABD19-719F-49F7-92BA-2FA325939851-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142817
+e356070605.315137
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.me3de24cd3439b541^c6c250cd3439b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m0000000000000000^4161"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLDataResponse.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o36"D07F8A80-7B8D-4D4D-96D9-09F9F1375C3A-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142869
+e356070605.327942
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m9acc24cd3439b541^23f453cd3439b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m0000000000000000^4167"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLImageResponse.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o36"94AB9EBE-4D98-4F97-B1E3-8F0B896DD696-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.143062
+e356070605.412421
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m7dcb24cd3439b541^579569cd3439b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m0000000000000000^4131"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequest.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o36"B379CA3E-0CA6-431F-B577-6C6881EF5D3F-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.296320
+e356070605.448284
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m8e024ccd3439b541^59c272cd3439b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m0000000000000000^4161"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestModel.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o36"8D1975C7-139A-480E-860D-990742EFF6E4-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.296322
+e356070605.515575
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.mcd034ccd3439b541^5c7284cd3439b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m0000000000000000^4161"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTURLRequestQueue.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o36"D76CC888-46F0-40E0-A536-5C530DAA201A-
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070605.142757
+e356070605.295787
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m0fba24cd3439b541^ecbe4bcd3439b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m0000000000000000^4119"CompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Sources/TTUserInfo.m -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o36"7907594C-950D-4E45-A673-6487E1D6C8DC-
+
+CCpHeader Headers/TTErrorCodes.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTErrorCodes.h
+r0
+
+CCpHeader Headers/TTGlobalNetwork.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+r0
+
+CCpHeader Headers/TTModel.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h
+r0
+
+CCpHeader Headers/TTModelDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h
+r0
+
+CCpHeader Headers/TTRequestLoader.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+r0
+
+CCpHeader Headers/TTURLCache.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h
+r0
+
+CCpHeader Headers/TTURLDataResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+r0
+
+CCpHeader Headers/TTURLImageResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+r0
+
+CCpHeader Headers/TTURLRequest.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h
+r0
+
+CCpHeader Headers/TTURLRequestCachePolicy.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+r0
+
+CCpHeader Headers/TTURLRequestDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+r0
+
+CCpHeader Headers/TTURLRequestModel.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+r0
+
+CCpHeader Headers/TTURLRequestQueue.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+r0
+
+CCpHeader Headers/TTURLRequestQueueInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+r0
+
+CCpHeader Headers/TTURLResponse.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h
+r0
+
+CCpHeader Headers/TTUserInfo.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h
+r0
+
+CCpHeader Headers/Three20Network.h ../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h
+r0
+
+CLibtool /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a normal armv7
+s356070605.522042
+e356070605.535993
+r1
+xLibtool
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Libtool ../../Build/Products/Debug-iphoneos/libThree20Network.a normal armv7bdc385cd3439b541^eb1c8fcd3439b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1131"Libtool ../../Build/Products/Debug-iphoneos/libThree20Network.a normal armv7    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib -filelist /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList -ObjC -o /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a36"14D5D2A8-FC6C-4A3F-A6D4-52B77BFBAE16-
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+s356151090.191765
+e356151090.206401
+r1
+xPhaseScriptExecution
+xProtect Copied Headers
+x/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Run custom shell script 'Protect Copied Headers'48c331326f3ab541^80d634326f3ab541^---0#0#0#--21779"PhaseScriptExecution "Protect Copied Headers" ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER robin    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD_32_64_BIT armv7    setenv ARCHS_STANDARD_32_BIT armv7    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME Three20Network    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv CACHE_ROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Three20Network.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME libThree20Network.a.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libThree20Network.a    setenv EXECUTABLE_PATH libThree20Network.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libThree20Network.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/Three20Network_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/Three20Network.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER robin    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/Three20Network.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50d    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal    setenv OBJROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 9B176    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/Three20Network/private    setenv PRODUCT_NAME Three20Network    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT Three20Network    setenv PROJECT_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/DerivedSources    setenv PROJECT_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv PROJECT_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/Three20Network.xcodeproj    setenv PROJECT_NAME Three20Network    setenv PROJECT_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/Three20Network    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../..    setenv REZ_COLLECTOR_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos\" "    setenv ROOT_SOURCE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_NAME iphoneos5.1    setenv SDK_PRODUCT_BUILD_VERSION 9B176    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv SRCROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Three20Network    setenv TARGET_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv TARGET_NAME Three20Network    setenv TARGET_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER robin    setenv USER_APPS_DIR /Users/robin/Applications    setenv USER_LIBRARY_DIR /Users/robin/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER robin    setenv VERSION_INFO_FILE Three20Network_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Three20Network  PROJECT:Three20Network-\""    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4E2002    setenv XCODE_VERSION_ACTUAL 0432    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0430    setenv YACC yacc    /bin/sh -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh36"E4945B6F-960D-4E4A-94DC-DD1EEB36FFEA-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTCatalog-eqyvrxtkbbqnoebtzthcermqqaji/Index/PrecompiledHeaders/Three20Network_Prefix-ajwmqsszphfxezgaomujskyqcjbl_ast/Three20Network_Prefix.pch.pth Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070604.948702
+e356070605.135425
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth
+xHeaders/Three20Network_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Precompile Headers/Three20Network_Prefix.pch66f9f2cc3439b541^7eaa22cd3439b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/Three20Network_Prefix.pch0000000000000000^4081"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20Network/Headers/Three20Network_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-chaqptsfjjbrduefuvzlqvgdxntx/Three20Network_Prefix.pch.d36"141B50E9-0EE9-4807-8F0F-E8E78D339AC5-
+

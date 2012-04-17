@@ -1,0 +1,421 @@
+TTTStyleCatalog
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist TTStyleCatalog-Info.plist
+cCpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png
+cCpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle
+cCpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png
+cCpResource ../../Resources/Default@2x.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth Headers/TTStyleCatalog_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog normal i386
+cGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog
+cTouch /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F7E90E30000000000244490
+t1333694691
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F7E90E30000000000353830
+t1333694691
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90E30000000000001534
+t1333694691
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F7E90E500000000001AB190
+t1333694693
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F7E90E50000000000000BF5
+t1333694693
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F7E90E60000000000905E40
+t1333694694
+s9461312
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004F88DC6000000000000007A8
+t1334369376
+s1960
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004F88DC360000000000042DC8
+t1334369334
+s273864
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004F88DC5A0000000000055730
+t1334369370
+s350000
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004F88DC5C0000000000123310
+t1334369372
+s1192720
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004F88DC5E000000000067FC08
+t1334369374
+s6814728
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004F88DC360000000000054150
+t1334369334
+s344400
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004F88DC360000000000086900
+t1334369334
+s551168
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/three20/Three20/Three20.h
+c000000004F88DC5F0000000000000388
+t1334369375
+s904
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/PkgInfo
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/TTStyleCatalog.LinkFileList
+c000000004F88FC2A0000000000000448
+t1334377514
+s1096
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../src/Three20.bundle
+c000000004E2340CB0000000000000264
+t1310933195
+s612
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Default.png
+c000000004E2340CB000000000002E7A8
+t1310933195
+s190376
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Default@2x.png
+c000000004E2340CB00000000000ACDCE
+t1310933195
+s708046
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Icon.png
+c000000004E2340CB0000000000001B41
+t1310933195
+s6977
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m
+c000000004E2340CB00000000000008AF
+t1310933195
+s2223
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.h
+c000000004E2340CB0000000000000277
+t1310933195
+s631
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m
+c000000004E2340CB0000000000000296
+t1310933195
+s662
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m
+c000000004E2340CB0000000000001EB7
+t1310933195
+s7863
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m
+c000000004E2340CB0000000000000727
+t1310933195
+s1831
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m
+c000000004E2340CB00000000000018CE
+t1310933195
+s6350
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Headers/TTStyleCatalog_Prefix.pch
+c000000004E2340CB00000000000000F3
+t1310933195
+s243
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Three20/Three20.h"
+i"Atlas.h"
+
+N/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m
+c000000004E2340CB000000000000031D
+t1310933195
+s797
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth
+t2
+s0
+
+NTTStyleCatalog-Info.plist
+c000000004E2340CB0000000000000356
+t1310933195
+s854
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies19ab81aa3339b541^179f82aa3339b541^---0#1#0#--18"Check dependencies36"269D102D-C7A2-4401-A148-77DE84A4A674-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.843862
+e356070314.898224
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m3123d8aa3339b541^aaf2e5aa3339b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m0000000000000000^4599"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/AppDelegate.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/AppDelegate.o36"DCB0C2CF-2214-4D2B-BD48-7C504612BC41-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.844486
+e356070314.869773
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.med45d8aa3339b541^71a9deaa3339b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m0000000000000000^4563"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/Atlas.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/Atlas.o36"427B2800-2AA5-4DDC-A6B3-32CE68BC6081-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.844354
+e356070314.902989
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.mfb3ed8aa3339b541^492ae7aa3339b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m0000000000000000^4665"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/MainMenuViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/MainMenuViewController.o36"099DF4F8-428E-467C-944B-96E7A529E33A-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.845640
+e356070314.896837
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m8a92d8aa3339b541^7496e5aa3339b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m0000000000000000^4587"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o Classes/StyleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleView.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleView.o36"B58E321B-3FA4-4186-B8EA-C2F9691FA8A8-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.845556
+e356070314.915164
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m6d8dd8aa3339b541^cb47eaaa3339b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m0000000000000000^4647"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o Classes/StyleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Classes/StyleViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/StyleViewController.o36"5C11BA43-8CF1-464E-9B63-0F2C8B03E1E8-
+
+CCompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.843852
+e356070314.868839
+r1
+xCompileC
+x../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m9623d8aa3339b541^596ddeaa3339b541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m0000000000000000^4541"CompileC ../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/main.m -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/main.o36"A04EE146-47E2-43B9-97E1-54ECFF33E35C-
+
+CCpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle
+s356070314.527211
+e356070314.575621
+r1
+xCpResource
+x../../../src/Three20.bundle
+x../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundleea0987aa3339b541^205e93aa3339b541^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle000000000080d041^838"CpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Three20.bundle    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../src/Three20.bundle /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app36"98FA58F0-01E1-4F32-B91D-5A510373A838-
+
+CCpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png
+s356070314.527197
+e356070314.539159
+r1
+xCpResource
+x../../Resources/Default.png
+x../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png3d0a87aa3339b541^8d088aaa3339b541^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png000000000080d041^835"CpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default.png    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Default.png /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app36"63BE0397-3379-42F2-8914-CCBBCAA17C2B-
+
+CCpResource ../../Resources/Default@2x.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png
+s356070314.527234
+e356070314.548708
+r1
+xCpResource
+x../../Resources/Default@2x.png
+x../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png290787aa3339b541^85788caa3339b541^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png000000000080d041^850"CpResource "../../Resources/Default@2x.png" "../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Default@2x.png"    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Default@2x.png" /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app36"247F68D8-067F-4D5C-AC74-F6C5C541FB93-
+
+CCpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png
+s356070314.527228
+e356070314.530889
+r1
+xCpResource
+x../../Resources/Icon.png
+x../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png290787aa3339b541^ffe887aa3339b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png000000000080d041^826"CpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Icon.png    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../Resources/Icon.png /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app36"6D360D27-DCCD-4590-A816-1C67D0C1222C-
+
+CGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog
+s356070315.507697
+e356070315.811060
+r1
+xGenerateDSYMFile
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generating /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYMea2182ab3339b541^d3a1cfab3339b541^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM000000000080d041^838"GenerateDSYMFile ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app.dSYM36"6F2D9503-1B0E-4030-9D5C-55DC50CE4D36-
+
+CLd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog normal i386
+s356070314.935653
+e356070315.500714
+r1
+xLd
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalogfe9befaa3339b541^4d3080ab3339b541^---0#0#0#--2398"Ld ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog normal i386    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/Objects-normal/i386/TTStyleCatalog.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/TTStyleCatalog36"86278514-93FB-48F1-9716-0C1AC1A1C880-
+
+CProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist TTStyleCatalog-Info.plist
+s356070314.514745
+e356070314.518222
+r1
+xProcessInfoPlistFile
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist
+xTTStyleCatalog-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process TTStyleCatalog-Info.plistd4d383aa3339b541^c9aa84aa3339b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/TTStyleCatalog-Info.plist0000000000000000^813"ProcessInfoPlistFile ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist TTStyleCatalog-Info.plist    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TTStyleCatalog-Info.plist -genpkginfo /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app/Info.plist36"B7704A16-D84C-42FD-8EE8-F8EFB773D578-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTStyleCatalog-douippjmsncwnafxbnnsoxzpwzom/Index/PrecompiledHeaders/TTStyleCatalog_Prefix-hccjtchjkhqgyrawottktukyoihk_ast/TTStyleCatalog_Prefix.pch.pth Headers/TTStyleCatalog_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth Headers/TTStyleCatalog_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356070314.584041
+e356070314.837356
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth
+xHeaders/TTStyleCatalog_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Precompile Headers/TTStyleCatalog_Prefix.pch01a195aa3339b541^e65cd6aa3339b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Headers/TTStyleCatalog_Prefix.pch0000000000000000^4489"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth Headers/TTStyleCatalog_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/TTStyleCatalog-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/TTStyleCatalog.build/Debug-iphonesimulator/TTStyleCatalog.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/Headers/TTStyleCatalog_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTStyleCatalog_Prefix-boinqtrnceuzztfnucbxmatqknpc/TTStyleCatalog_Prefix.pch.d36"89943972-04E9-4816-BA11-9940ACFA289E-
+
+CTouch /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app
+s356070315.819483
+e356070315.828493
+r1
+xTouch
+x/Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Touch /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app88d7d1ab3339b541^a418d4ab3339b541^---0#0#0#--498"Touch ../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app    cd /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robin/Projects/study/ios/Three20/samples/Style/TTStyleCatalog/../../../Build/Products/Debug-iphonesimulator/TTStyleCatalog.app36"BF6899C3-0B6C-461C-B06F-0B4F2A20F983-
+

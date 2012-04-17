@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTExtensionInfoController.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTExtensionInfoController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTModelViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTBaseViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTSectionedDataSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewDataSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableCaptionItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableTextItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableLinkedItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableLongTextItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTExtensionInfo.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTExtensionAuthor.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTExtensionLoader.h

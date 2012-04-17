@@ -1,0 +1,29 @@
+!!! 5
+html
+ head
+   title 第一个简单的MVC模式应用
+   script(type="text/javascript", src="/lib/jquery-1.7.1.js",chatset="utf-8")
+   script(type="text/javascript", src="/lib/underscore.js",chatset="utf-8")
+   script(type="text/javascript", src="/lib/backbone.js",chatset="utf-8")
+   script(type="text/javascript", src="/models/models.js",chatset="utf-8")
+   script(type="text/javascript", src="/views/views.js",chatset="utf-8")
+   script(type="text/javascript", src="/controllers/controllers.js",chatset="utf-8")
+   script
+      //Fake out FF and IE8
+      function log() {
+          if (typeof console == 'undefined') {
+              return;
+          }
+          console.log.apply(console, arguments);
+      }
+      $(document).ready(function () {
+          $.post("/api",function (data){ 
+               window.app = UserController.init(data); 
+          },'json');
+         
+      });
+ body
+   #heading
+   h1 第一个简单的MVC模式应用
+   #content
+   ul#user_list

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/AppDelegate.m \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/AppDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/SplitCatalogController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/CatalogController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/PhotoTest1Controller.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/PhotoTest2Controller.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/ImageTest1Controller.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableImageTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/YouTubeTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableItemTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableControlsTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableWithBannerController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableWithShadowController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TableDragRefreshController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/SearchTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/MessageTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/ActivityTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/ScrollViewTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/LauncherViewTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/StyledTextTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/StyledTextTableTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/StyleTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/ButtonTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/TabBarTestController.h \
+  /Users/robin/Projects/study/ios/Three20/samples/TTCatalog/Classes/DownloadProgressTestController.h

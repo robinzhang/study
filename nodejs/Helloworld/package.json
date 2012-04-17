@@ -1,0 +1,8 @@
+{
+    "name": "Helloworld",
+    "description": "my first Node.js Site",
+    "version": "0.1.0",
+    "author": "robin",
+    "dependencies": {},
+    "devDependencies": {}
+}

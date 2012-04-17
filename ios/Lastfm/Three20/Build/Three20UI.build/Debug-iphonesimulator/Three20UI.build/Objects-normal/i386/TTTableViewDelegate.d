@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTTableViewDelegate.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTBaseNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewDataSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTModelViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/TTBaseViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModelDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableHeaderView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTStyledTextLabel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledTextDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableLinkedItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableButton.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableTextItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableMoreButton.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableSubtitleItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableMoreButtonCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableSubtitleItemCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableLinkedItemCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTDefaultStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestQueue.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h

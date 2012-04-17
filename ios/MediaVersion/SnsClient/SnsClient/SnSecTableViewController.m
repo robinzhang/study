@@ -18,18 +18,18 @@
         self.variableHeightRows=YES;
         
         // Custom initialization
-        CGRect frame = self.view.bounds;
+        //CGRect frame = self.view.bounds;
         
         // SnSubTitleView
         
-        SntitleView = [TTButton buttonWithStyle:@"SnSubTitleView:"];
-        [ SntitleView setFrame:CGRectMake(0 , 0, frame.size.width , KPageTitleHeight)];
-        [self.view addSubview:SntitleView];
+        //SntitleView = [TTButton buttonWithStyle:@"SnSubTitleView:"];
+        //[ SntitleView setFrame:CGRectMake(0 , 0, frame.size.width , KPageTitleHeight)];
+        //[self.view addSubview:SntitleView];
         
         
-        UIImageView *titleView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 125, 30)];
-        [titleView setImage:TTIMAGE(@"bundle://icon_toplogo.png")];
-        self.navigationItem.titleView  = titleView;
+        //UIImageView *titleView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 125, 30)];
+        //[titleView setImage:TTIMAGE(@"bundle://icon_toplogo.png")];
+        //self.navigationItem.titleView  = titleView;
     }
     return self;
 }
@@ -37,9 +37,9 @@
 -(void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
-    [SntitleView setTitle:self.title forState:UIControlStateNormal ];
-    CGRect frame = self.view.bounds;
-    [self.tableView setFrame:CGRectMake(0, KPageTitleHeight, frame.size.width, frame.size.height - KPageTitleHeight)];
+    //[SntitleView setTitle:self.title forState:UIControlStateNormal ];
+    //CGRect frame = self.view.bounds;
+    //[self.tableView setFrame:CGRectMake(0, KPageTitleHeight, frame.size.width, frame.size.height - KPageTitleHeight)];
 }
 
 

@@ -10,6 +10,6 @@
 
 @interface SnSecTableViewController : TTTableViewController
 {
-    TTButton *SntitleView;
+    //TTButton *SntitleView;
 }
 @end

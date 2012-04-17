@@ -1,0 +1,97 @@
+
+/* 主页 */
+"Back" = "后退";
+
+"Done" ="确定";
+
+"Comment" ="评论";
+
+"Submit" ="提交";
+
+"Cancel" = "取消";
+
+"Close" = "关闭";
+
+"select photo"="选择照片";
+
+"album" ="浏览相册";
+
+"camera" ="使用相机";
+
+"Logon" ="登录";
+
+"UserName" ="邮  箱:";
+
+"Password" ="密  码:";
+
+"NickName" = "昵  称:";
+
+"Sex" = "性  别:";
+
+
+"Register" ="注册";
+
+"Follow" ="关注";
+
+"UnFollow" ="取消关注";
+
+/*    关注 */
+"   Follow" = "   关注";
+
+/*    取消 */
+"   UnFollow" = "   取消";
+
+/* 确定要退出登陆?你将无法接收到朋友发来的任何消息。 */
+"You Will Logout and Can't Receive Any Message From Your Friends" = "如果退出登录状态，你将收不到你关注的人所发的新闻，但不影响新闻接收、匿名发布和评论。";
+
+/* Invite Friends */
+"Invite Friends" = "邀请好友";
+
+/* Invite Friends By Email*/
+"Invite Friends By Email" = "通过电子邮件邀请好友";
+
+/* Invite Friends By Sina Weibo*/
+"Invite Friends By Sina Weibo" = "通过新浪微博邀请好友";
+
+/* Invite Friends By SMS*/
+"Invite Friends By SMS" = "通过短信邀请好友";
+
+/* Email Invite Subject*/
+"Email Invite Subject" = "试试看这个app！";
+
+/* Email Invite Body*/
+"Email Invite Body" = "推荐一个应用程序---新闻两公里。不需要费力寻找，身边两公里内的新闻资讯自动推送到你手机中；不需要专业训练，拿起手机你就是街头的“记者”。#新闻两公里#让你及时看到两公里内的身边新闻。http://itunes.apple.com/zh/app/id479497594?ls=1&mt=8";
+
+/* SMS Invite*/
+"SMS Invite" = "推荐一个应用程序---新闻两公里。不需要费力寻找，身边两公里内的新闻资讯自动推送到你手机中；不需要专业训练，拿起手机你就是街头的“记者”。#新闻两公里#让你及时看到两公里内的身边新闻。http://itunes.apple.com/zh/app/id479497594?ls=1&mt=8";
+
+/* Weibo Invite */
+"Weibo Invite" = "微博邀请";
+
+/* Weibo Invite Body*/
+"Weibo Invite Body" = "不需要费力寻找，身边两公里内的新闻资讯自动推送到你手机中；不需要专业训练，拿起手机你就是街头的“记者”。#新闻两公里#让你及时看到两公里内的身边新闻。http://itunes.apple.com/zh/app/id479497594?ls=1&mt=8";
+
+/* 不允许看过使用定位服务会使您无法收到来自朋友的任何消息，请在系统设置中重新打开。 */
+"Location Permission Request" = "不允许看过使用定位服务会使您无法收到来自朋友的任何消息，请在系统设置中重新打开。";
+
+"Notice" = "警告";
+
+/* 接收通知时段 */
+"Notification Time" = "接收通知时段";
+
+/* 提醒设置 */
+"Notifications" = "提醒设置";
+
+/* 节电模式 */
+"Battery Save Mode" = "节电模式";
+
+"Leave For Myself" ="给我的";
+
+"Following" ="关注的";
+
+"Public Notes" ="公共的";
+
+"Friends" ="朋友的";
+
+"Display" = "显示";
+

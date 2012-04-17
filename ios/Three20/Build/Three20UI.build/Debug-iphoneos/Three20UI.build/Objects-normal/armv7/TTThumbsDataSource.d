@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTThumbsDataSource.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTThumbsDataSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewDataSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPhotoSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLObject.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableMoreButton.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableSubtitleItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableTextItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableLinkedItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableItem.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTThumbsTableViewCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewCell.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCoreLocale.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h

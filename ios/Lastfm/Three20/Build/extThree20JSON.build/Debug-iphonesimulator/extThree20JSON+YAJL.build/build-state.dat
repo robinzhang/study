@@ -1,0 +1,989 @@
+TextThree20JSON+YAJL
+v5
+r1
+cCheck dependencies
+cCpHeader Headers/TTURLJSONResponse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h
+cCpHeader Vendors/YAJL/NSObject+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h
+cCpHeader Vendors/YAJL/YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h
+cCpHeader Vendors/YAJL/YAJLDocument.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h
+cCpHeader Vendors/YAJL/YAJLGen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h
+cCpHeader Vendors/YAJL/YAJLParser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h
+cCpHeader Headers/extThree20JSON.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h
+cCpHeader Vendors/YAJL/yajl/src/api/yajl_common.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h
+cCpHeader Headers/TTErrorCodes.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h
+cCpHeader Vendors/YAJL/yajl/src/api/yajl_gen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h
+cCpHeader Vendors/YAJL/yajl/src/api/yajl_parse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_bytestack.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_alloc.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_buf.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_encode.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_lex.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h
+cCpHeader Vendors/YAJL/yajl/src/yajl_parser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h
+cCpHeader Vendors/YAJL/yajl/src/api/yajl_version.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h
+cCpHeader Headers/TTExtensionLoader.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h
+cCpHeader Vendors/YAJL/GTM/GTMBase64.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h
+cCpHeader Vendors/YAJL/NSBundle+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h
+cCpHeader Vendors/YAJL/GHKit/GHNSBundle+Utils.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h
+cPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90E30000000000001534
+t1333694691
+s5428
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/extThree20JSON+YAJL.LinkFileList
+c000000004F88DD050000000000000C3C
+t1334369541
+s3132
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh
+c000000004F88DD050000000000000026
+t1334369541
+s38
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTErrorCodes.h
+c000000004E2340CB00000000000002BA
+t1310933195
+s698
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTExtensionLoader.h
+c000000004E2340CB00000000000002B4
+t1310933195
+s692
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTURLJSONResponse.h
+c000000004E2340CB000000000000037E
+t1310933195
+s894
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch
+c000000004E2340CB00000000000000AC
+t1310933195
+s172
+i<Foundation/Foundation.h>
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON.h
+c000000004E2340CB00000000000002A9
+t1310933195
+s681
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m
+c000000004E2340CB00000000000002C8
+t1310933195
+s712
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m
+c000000004E2340CB0000000000000952
+t1310933195
+s2386
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m
+c000000004E2340CB0000000000000C70
+t1310933195
+s3184
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.h
+c000000004E2340CB0000000000000275
+t1310933195
+s629
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m
+c000000004E2340CB0000000000000513
+t1310933195
+s1299
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.h
+c000000004E2340CB0000000000001700
+t1310933195
+s5888
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m
+c000000004E2340CB0000000000006280
+t1310933195
+s25216
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.h
+c000000004E2340CB0000000000000919
+t1310933195
+s2329
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m
+c000000004E2340CB00000000000007E8
+t1310933195
+s2024
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.h
+c000000004E2340CB0000000000001534
+t1310933195
+s5428
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m
+c000000004E2340CB0000000000000B5D
+t1310933195
+s2909
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJL.h
+c000000004E2340CB0000000000001A44
+t1310933195
+s6724
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.h
+c000000004E2340CB0000000000001C24
+t1310933195
+s7204
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m
+c000000004E2340CB000000000000165E
+t1310933195
+s5726
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.h
+c000000004E2340CB0000000000001030
+t1310933195
+s4144
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m
+c000000004E2340CB0000000000001242
+t1310933195
+s4674
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.h
+c000000004E2340CB00000000000015E4
+t1310933195
+s5604
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m
+c000000004E2340CB00000000000022F8
+t1310933195
+s8952
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_common.h
+c000000004E2340CB0000000000000C3B
+t1310933195
+s3131
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_gen.h
+c000000004E2340CB0000000000001C11
+t1310933195
+s7185
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_parse.h
+c000000004E2340CB0000000000002114
+t1310933195
+s8468
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_version.h
+c000000004E2340CB0000000000000176
+t1310933195
+s374
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c
+c000000004E2340CB0000000000001373
+t1310933195
+s4979
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c
+c000000004E2340CB00000000000008B0
+t1310933195
+s2224
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.h
+c000000004E2340CB00000000000007BE
+t1310933195
+s1982
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c
+c000000004E2340CB0000000000000CE9
+t1310933195
+s3305
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.h
+c000000004E2340CB0000000000000A48
+t1310933195
+s2632
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_bytestack.h
+c000000004E2340CB0000000000000C34
+t1310933195
+s3124
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c
+c000000004E2340CB0000000000001A15
+t1310933195
+s6677
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.h
+c000000004E2340CB000000000000081B
+t1310933195
+s2075
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c
+c000000004E2340CB00000000000026C6
+t1310933195
+s9926
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c
+c000000004E2340CB000000000000641E
+t1310933195
+s25630
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.h
+c000000004E2340CB0000000000001364
+t1310933195
+s4964
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c
+c000000004E2340CB0000000000004D6B
+t1310933195
+s19819
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.h
+c000000004E2340CB0000000000000B8D
+t1310933195
+s2957
+
+N/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c
+c000000004E2340CB000000000000005C
+t1310933195
+s92
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd1e8ae851439b541^1289d2851439b541^---0#1#0#--18"Check dependencies36"DB78013A-11D8-48AE-92E5-A14D98A57BD2-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.217016
+e356062342.264400
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.mf6d03a861439b541^aeb943861439b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m0000000000000000^4521"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o Vendors/YAJL/GHKit/GHNSBundle+Utils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GHNSBundle+Utils.o36"42AD111B-49E2-42B5-9719-BF4C97E65CDE-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.213278
+e356062342.265907
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.me41237861439b541^6a1244861439b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m0000000000000000^4475"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o Vendors/YAJL/GTM/GTMBase64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/GTMBase64.o36"884EF96A-87F8-4D38-A9C2-31651DEB57FC-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.215136
+e356062342.268059
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.mc87937861439b541^12bf46861439b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m0000000000000000^4491"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o Vendors/YAJL/NSBundle+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSBundle+YAJL.o36"8F404B69-12A3-40BD-83B6-14D4355CE767-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.161564
+e356062342.213363
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m2b8829861439b541^d3a236861439b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m0000000000000000^4491"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o Vendors/YAJL/NSObject+YAJL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/NSObject+YAJL.o36"35165620-C434-453F-9295-757DDD9307C5-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.162358
+e356062342.204412
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.mc8b129861439b541^69fe34861439b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m0000000000000000^4473"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o Source/TTErrorCodes.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTErrorCodes.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTErrorCodes.o36"EC25D637-026E-4823-9A36-0CEA09754633-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.208652
+e356062342.313930
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.ma8a836861439b541^c85d50861439b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m0000000000000000^4503"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o Source/TTExtensionLoader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTExtensionLoader.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTExtensionLoader.o36"E398686B-B18E-44FE-9812-3987C6CD6C1D-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.161573
+e356062342.277999
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m1b8429861439b541^7c2a47861439b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m0000000000000000^4503"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o Source/TTURLJSONResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Source/TTURLJSONResponse.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/TTURLJSONResponse.o36"BC43228A-6D10-4AD0-A3A4-D4A76ADC78E0-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.161601
+e356062342.215510
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m238629861439b541^a9be3b861439b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m0000000000000000^4485"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o Vendors/YAJL/YAJLDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLDocument.o36"3B957561-96FF-4873-8D4E-9094090953DE-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.161606
+e356062342.206755
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m6f8429861439b541^8a0635861439b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m0000000000000000^4455"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o Vendors/YAJL/YAJLGen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLGen.o36"3F46192E-900B-4C93-BD7C-DE4CCCF9587F-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.161689
+e356062342.230373
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m6d8c29861439b541^ee073c861439b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m0000000000000000^4473"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o Vendors/YAJL/YAJLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.m -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/YAJLParser.o36"0878540C-061C-4CBB-A9D6-AD0C20865812-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.982454
+e356062342.028763
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c2fa8fb851439b541^276c07861439b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c0000000000000000^4087"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o Vendors/YAJL/yajl/src/yajl.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl.o36"1203DE5D-1A81-4E7F-A36F-964B1EED0FD9-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.982473
+e356062342.015713
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c87a7fb851439b541^437404861439b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c0000000000000000^4123"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o Vendors/YAJL/yajl/src/yajl_alloc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_alloc.o36"04AAE1B6-0B7E-43B1-B739-88B96D86E6FF-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.982481
+e356062342.018110
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c44a7fb851439b541^fd1506861439b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c0000000000000000^4111"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o Vendors/YAJL/yajl/src/yajl_buf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_buf.o36"E10B02D5-B601-4B64-B0B2-0EE969838C36-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.018223
+e356062342.066749
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.cd4d204861439b541^da1e11861439b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c0000000000000000^4129"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o Vendors/YAJL/yajl/src/yajl_encode.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_encode.o36"E73B8198-8200-431D-959A-3E7ADEC74594-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.982496
+e356062342.066735
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c93c3fb851439b541^7e1811861439b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c0000000000000000^4111"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o Vendors/YAJL/yajl/src/yajl_gen.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_gen.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_gen.o36"4BB5FE13-7E34-4A25-ABDD-C39875623AB9-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.982767
+e356062342.059824
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.cf5b8fb851439b541^1d3b10861439b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c0000000000000000^4111"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o Vendors/YAJL/yajl/src/yajl_lex.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_lex.o36"FD645DDE-0992-4E2C-BF8D-A54449717718-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.983204
+e356062342.064420
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c03d1fb851439b541^06b810861439b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c0000000000000000^4129"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o Vendors/YAJL/yajl/src/yajl_parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_parser.o36"0ED4FE55-6F38-46EE-BE85-A16EE292D8A0-
+
+CCompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062342.020535
+e356062342.040352
+r1
+xCompileC
+x../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c596a05861439b541^ed660a861439b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c0000000000000000^4135"CompileC ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o Vendors/YAJL/yajl/src/yajl_version.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_version.c -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/yajl_version.o36"DD4E7093-088C-4FB1-8BD7-DD53C9FE70A6-
+
+CCpHeader Headers/TTErrorCodes.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h
+s356062341.834167
+e356062341.841776
+r1
+xCpHeader
+xHeaders/TTErrorCodes.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h529ed5851439b541^067fd7851439b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h000000000080d041^804"CpHeader Headers/TTErrorCodes.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTErrorCodes.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTErrorCodes.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"B56756BF-AF62-42C7-8EE0-44428ACC302B-
+
+CCpHeader Headers/TTExtensionLoader.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h
+s356062341.846311
+e356062341.853752
+r1
+xCpHeader
+xHeaders/TTExtensionLoader.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h45b9d8851439b541^9791da851439b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h000000000080d041^819"CpHeader Headers/TTExtensionLoader.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTExtensionLoader.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTExtensionLoader.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"CF4F04DF-F96D-4A00-9F7D-19FF27A4BEA9-
+
+CCpHeader Headers/TTURLJSONResponse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h
+s356062341.830201
+e356062341.833044
+r1
+xCpHeader
+xHeaders/TTURLJSONResponse.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.hf19dd4851439b541^8d43d5851439b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h000000000080d041^819"CpHeader Headers/TTURLJSONResponse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/TTURLJSONResponse.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/TTURLJSONResponse.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"19440355-A58A-4D67-A584-DA0B38637F1A-
+
+CCpHeader Headers/extThree20JSON.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h
+s356062341.832414
+e356062341.839531
+r1
+xCpHeader
+xHeaders/extThree20JSON.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.he926d5851439b541^81ebd6851439b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h000000000080d041^810"CpHeader Headers/extThree20JSON.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/extThree20JSON.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"30D33833-8C0B-4E67-AA04-E2CAE21C6112-
+
+CCpHeader Vendors/YAJL/GHKit/GHNSBundle+Utils.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h
+s356062341.849480
+e356062341.857064
+r1
+xCpHeader
+xVendors/YAJL/GHKit/GHNSBundle+Utils.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.hd787d9851439b541^6669db851439b541^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h000000000080d041^854"CpHeader Vendors/YAJL/GHKit/GHNSBundle+Utils.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GHNSBundle+Utils.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GHKit/GHNSBundle+Utils.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"3F547AD9-6E01-469D-B6AF-83B3AD6E4E34-
+
+CCpHeader Vendors/YAJL/GTM/GTMBase64.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h
+s356062341.848380
+e356062341.855483
+r1
+xCpHeader
+xVendors/YAJL/GTM/GTMBase64.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.hd941d9851439b541^0001db851439b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h000000000080d041^829"CpHeader Vendors/YAJL/GTM/GTMBase64.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/GTMBase64.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/GTM/GTMBase64.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"083C9420-DBAF-464C-8F28-0252992BB001-
+
+CCpHeader Vendors/YAJL/NSBundle+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h
+s356062341.849467
+e356062341.857592
+r1
+xCpHeader
+xVendors/YAJL/NSBundle+YAJL.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h5d88d9851439b541^008cdb851439b541^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h000000000080d041^817"CpHeader Vendors/YAJL/NSBundle+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSBundle+YAJL.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSBundle+YAJL.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"E2A889AD-5B23-4331-BAEF-8444E93390BE-
+
+CCpHeader Vendors/YAJL/NSObject+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h
+s356062341.830213
+e356062341.837248
+r1
+xCpHeader
+xVendors/YAJL/NSObject+YAJL.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h60afd4851439b541^7158d6851439b541^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h000000000080d041^817"CpHeader Vendors/YAJL/NSObject+YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/NSObject+YAJL.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/NSObject+YAJL.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"8F977747-377E-479F-94C4-747624CF7493-
+
+CCpHeader Vendors/YAJL/YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h
+s356062341.830229
+e356062341.833704
+r1
+xCpHeader
+xVendors/YAJL/YAJL.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h05a5d4851439b541^596ed5851439b541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h000000000080d041^790"CpHeader Vendors/YAJL/YAJL.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJL.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJL.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"DFA3B18A-91B0-4F93-B5C2-BA84B4C6EDA7-
+
+CCpHeader Vendors/YAJL/YAJLDocument.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h
+s356062341.830407
+e356062341.834835
+r1
+xCpHeader
+xVendors/YAJL/YAJLDocument.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h0da7d4851439b541^24b8d5851439b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h000000000080d041^814"CpHeader Vendors/YAJL/YAJLDocument.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLDocument.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLDocument.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"4962985C-44F3-4EEA-AD98-595CE292B078-
+
+CCpHeader Vendors/YAJL/YAJLGen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h
+s356062341.830564
+e356062341.837259
+r1
+xCpHeader
+xVendors/YAJL/YAJLGen.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.hddb1d4851439b541^ae61d6851439b541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h000000000080d041^799"CpHeader Vendors/YAJL/YAJLGen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLGen.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLGen.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"C7E94797-1E06-4FAF-AB2E-75810C8A54E9-
+
+CCpHeader Vendors/YAJL/YAJLParser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h
+s356062341.830571
+e356062341.839270
+r1
+xCpHeader
+xVendors/YAJL/YAJLParser.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h9ab5d4851439b541^66dad6851439b541^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h000000000080d041^808"CpHeader Vendors/YAJL/YAJLParser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/YAJLParser.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/YAJLParser.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"E48B1BDA-0802-4451-B7F0-66FBC109C088-
+
+CCpHeader Vendors/YAJL/yajl/src/api/yajl_common.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h
+s356062341.834161
+e356062341.842581
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/api/yajl_common.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h4d9fd5851439b541^1cb4d7851439b541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h000000000080d041^837"CpHeader Vendors/YAJL/yajl/src/api/yajl_common.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_common.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_common.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"12408382-D27A-46C2-9D90-80CE3F820063-
+
+CCpHeader Vendors/YAJL/yajl/src/api/yajl_gen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h
+s356062341.836015
+e356062341.843944
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/api/yajl_gen.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h3810d6851439b541^e90cd8851439b541^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h000000000080d041^828"CpHeader Vendors/YAJL/yajl/src/api/yajl_gen.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_gen.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_gen.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"A03CB524-1996-4907-9676-C2915759CEC4-
+
+CCpHeader Vendors/YAJL/yajl/src/api/yajl_parse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h
+s356062341.838573
+e356062341.845162
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/api/yajl_parse.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.hf1bad6851439b541^ab5cd8851439b541^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h000000000080d041^834"CpHeader Vendors/YAJL/yajl/src/api/yajl_parse.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_parse.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_parse.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"76054879-496C-4FAA-9D3D-2DAF6EBE551A-
+
+CCpHeader Vendors/YAJL/yajl/src/api/yajl_version.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h
+s356062341.846309
+e356062341.854435
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/api/yajl_version.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h02b9d8851439b541^94bcda851439b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h000000000080d041^840"CpHeader Vendors/YAJL/yajl/src/api/yajl_version.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/yajl_version.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/api/yajl_version.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON36"4E055906-5A69-4F65-BBA3-ECBDD30D9979-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_alloc.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h
+s356062341.839683
+e356062341.845847
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_alloc.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h2504d7851439b541^f489d8851439b541^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h000000000080d041^842"CpHeader Vendors/YAJL/yajl/src/yajl_alloc.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_alloc.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_alloc.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"7310D07A-CD15-420F-9D29-D937E896DFA5-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_buf.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h
+s356062341.839692
+e356062341.848351
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_buf.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h7409d7851439b541^fd2dd9851439b541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h000000000080d041^836"CpHeader Vendors/YAJL/yajl/src/yajl_buf.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_buf.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_buf.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"370F4233-2D92-47B2-B264-63F885E01B59-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_bytestack.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h
+s356062341.839666
+e356062341.847206
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_bytestack.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h0f09d7851439b541^47e3d8851439b541^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h000000000080d041^854"CpHeader Vendors/YAJL/yajl/src/yajl_bytestack.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_bytestack.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_bytestack.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"3BA6A7CC-4125-409A-8362-55B458470691-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_encode.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h
+s356062341.842924
+e356062341.849328
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_encode.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.hd3dbd7851439b541^6e6dd9851439b541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h000000000080d041^845"CpHeader Vendors/YAJL/yajl/src/yajl_encode.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_encode.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_encode.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"9EF1AEA2-E33F-4B2D-8CE3-A300315CC9F5-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_lex.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h
+s356062341.842921
+e356062341.850433
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_lex.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h5edbd7851439b541^a2b6d9851439b541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h000000000080d041^836"CpHeader Vendors/YAJL/yajl/src/yajl_lex.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_lex.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_lex.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"560FDAF4-E5BD-4A9C-B7C0-99CAF709303A-
+
+CCpHeader Vendors/YAJL/yajl/src/yajl_parser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h
+s356062341.845166
+e356062341.851358
+r1
+xCpHeader
+xVendors/YAJL/yajl/src/yajl_parser.h
+x../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.hca70d8851439b541^0ef3d9851439b541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h000000000080d041^845"CpHeader Vendors/YAJL/yajl/src/yajl_parser.h ../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private/yajl_parser.h    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Vendors/YAJL/yajl/src/yajl_parser.h /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20/extThree20JSON/private36"354B1A09-344C-4A23-A5A2-36EFF256E6D8-
+
+CLibtool /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a normal i386
+s356062342.321432
+e356062342.332107
+r1
+xLibtool
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Libtool ../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a normal i386c85f52861439b541^bc0655861439b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1210"Libtool ../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a normal i386    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib -filelist /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/extThree20JSON+YAJL.LinkFileList -ObjC -o /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a36"797CBF4D-5D1A-42C4-983C-D4EF12C1B73F-
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh
+s356062341.891281
+e356062341.927432
+r1
+xPhaseScriptExecution
+xProtect Copied Headers
+x/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Run custom shell script 'Protect Copied Headers'b857ea851439b541^2975ed851439b541^---0#0#0#--22098"PhaseScriptExecution "Protect Copied Headers" ../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER robin    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME extThree20JSON    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/extThree20JSON.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME libextThree20JSON+YAJL.a.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libextThree20JSON+YAJL.a    setenv EXECUTABLE_PATH libextThree20JSON+YAJL.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libextThree20JSON+YAJL.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS "DEBUG EXTJSON_YAJL"    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/extThree20JSON.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER robin    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/extThree20JSON.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal/i386/extThree20JSON+YAJL.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50d    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Objects-normal    setenv OBJROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PFE_FILE_C_DIALECTS "c objective-c"    setenv PKGINFO_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 50100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/extThree20JSON/private    setenv PRODUCT_NAME extThree20JSON+YAJL    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT extThree20JSON    setenv PROJECT_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/DerivedSources    setenv PROJECT_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv PROJECT_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/extThree20JSON.xcodeproj    setenv PROJECT_NAME extThree20JSON    setenv PROJECT_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/extThree20JSON    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../..    setenv REZ_COLLECTOR_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator\" "    setenv ROOT_SOURCE_PATH /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk    setenv SDK_NAME iphonesimulator5.1    setenv SDK_PRODUCT_BUILD_VERSION 9B176    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv SRCROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME extThree20JSON+YAJL    setenv TARGET_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator    setenv TARGET_NAME extThree20JSON+YAJL    setenv TARGET_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build    setenv TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build    setenv TEMP_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build    setenv TEMP_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build    setenv TEMP_ROOT /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER robin    setenv USER_APPS_DIR /Users/robin/Applications    setenv USER_LIBRARY_DIR /Users/robin/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER robin    setenv VERSION_INFO_FILE extThree20JSON+YAJL_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:extThree20JSON+YAJL  PROJECT:extThree20JSON-\""    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4E2002    setenv XCODE_VERSION_ACTUAL 0432    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0430    setenv YACC yacc    /bin/sh -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/Script-6E7F9372118E0EEB00443B46.sh36"FE3FC543-9AB0-447B-B1D7-BF7F3C1AA3F2-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTFacebook-hdkmhzmzcisxircepkhsvvqnsscv/Index/PrecompiledHeaders/extThree20JSON+YAJL_Prefix-ahkctvfotmyqjcdevnnpamtbrvur_ast/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTFacebook-hdkmhzmzcisxircepkhsvvqnsscv/Index/PrecompiledHeaders/extThree20JSON+YAJL_Prefix-cechfaxqsasonqherszmexqcdffa_ast/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.934899
+e356062342.154699
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth
+xHeaders/extThree20JSON+YAJL_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile Headers/extThree20JSON+YAJL_Prefix.pch452ff3851439b541^894128861439b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch0000000000000000^4421"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-bdtebeclatslpmehhesdcqssceqs/extThree20JSON+YAJL_Prefix.pch.d36"EA560AD4-734D-48D8-B7BE-00E8B17A2DA1-
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s356062341.934908
+e356062341.976185
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth
+xHeaders/extThree20JSON+YAJL_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile Headers/extThree20JSON+YAJL_Prefix.pch0532f3851439b541^dee6f9851439b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch0000000000000000^4053"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth Headers/extThree20JSON+YAJL_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/extThree20JSON    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DDEBUG -DEXTJSON_YAJL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/extThree20JSON+YAJL-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/extThree20JSON.build/Debug-iphonesimulator/extThree20JSON+YAJL.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/extThree20JSON/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/src/extThree20JSON/Headers/extThree20JSON+YAJL_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/extThree20JSON+YAJL_Prefix-geswcjmngcddggggxiywqquaqabi/extThree20JSON+YAJL_Prefix.pch.d36"5AEE29EB-F88E-4694-9B66-5B000C79DF93-
+

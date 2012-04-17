@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTButton.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTButton.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UI/private/TTButtonContent.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTImageViewDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTDefaultStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleContext.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTTextStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTPartStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTBoxStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTPosition.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTImageStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/UIImageAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h

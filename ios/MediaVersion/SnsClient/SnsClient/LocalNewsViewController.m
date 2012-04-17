@@ -19,8 +19,8 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        self.title = @"新闻";
-        self.tabBarItem = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"tab_fav.png"] tag:1] autorelease];
+        self.title = @"佛经";
+        self.tabBarItem = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"tab_read.png"] tag:1] autorelease];
         
         self.me = [UserHelper GetUserID];
         self.variableHeightRows = YES;
@@ -37,7 +37,7 @@
         
         
         CGRect applicationFrame = [UIScreen mainScreen].applicationFrame;
-        TTTabBar *_tabBar2 = [[TTTabBar alloc] initWithFrame:CGRectMake(0, KPageTitleHeight-1, applicationFrame.size.width, tabHeight)];
+        TTTabBar *_tabBar2 = [[TTTabBar alloc] initWithFrame:CGRectMake(0, -1, applicationFrame.size.width, tabHeight)];
         _tabBar2.style = TTSTYLE(newsTabBar);
         _tabBar2.tabStyle = @"newsTab:";
         
@@ -109,7 +109,7 @@
     }
     
     CGRect frame = self.view.bounds;
-    [self.tableView setFrame:CGRectMake(0, KPageTitleHeight + tabHeight, frame.size.width, frame.size.height - KPageTitleHeight - tabHeight)];
+    [self.tableView setFrame:CGRectMake(0,tabHeight, frame.size.width, frame.size.height - tabHeight)];
     
     if (![[GANTracker sharedTracker] trackPageview:[[self class] description]  withError:nil]) {
         // Handle error here

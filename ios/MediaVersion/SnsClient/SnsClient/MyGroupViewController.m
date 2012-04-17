@@ -16,8 +16,8 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
-        self.title = @"关注";
-        self.tabBarItem = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"more_recommand.png"] tag:3] autorelease];
+        self.title = @"佛语";
+        self.tabBarItem = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"tab_speak.png"] tag:3] autorelease];
         self.tableViewStyle = UITableViewStyleGrouped;
         self.showTableShadows = YES;
         

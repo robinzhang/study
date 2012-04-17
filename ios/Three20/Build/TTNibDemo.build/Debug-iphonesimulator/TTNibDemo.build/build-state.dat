@@ -1,0 +1,600 @@
+TTTNibDemo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist TTNibDemo-Info.plist
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib
+cCpResource README.mdown ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib
+cCpResource blueArrow.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png
+cCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib
+cCpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle
+cCpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png
+cCpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth Headers/TTNibDemo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo normal i386
+cGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo
+cTouch /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F7E90E30000000000244490
+t1333694691
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F7E90E30000000000353830
+t1333694691
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90E30000000000001534
+t1333694691
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F7E90E500000000001AB190
+t1333694693
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F7E90E50000000000000BF5
+t1333694693
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F7E90E60000000000905E40
+t1333694694
+s9461312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/Availability.h
+c000000004F7E90EC0000000000001B57
+t1333694700
+s6999
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004F88DC6000000000000007A8
+t1334369376
+s1960
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004F88DC360000000000042DC8
+t1334369334
+s273864
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004F88DC5A0000000000055730
+t1334369370
+s350000
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004F88DC5C0000000000123310
+t1334369372
+s1192720
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004F88DC5E000000000067FC08
+t1334369374
+s6814728
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004F88DC360000000000054150
+t1334369334
+s344400
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004F88DC360000000000086900
+t1334369334
+s551168
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/three20/Three20/Three20.h
+c000000004F88DC5F0000000000000388
+t1334369375
+s904
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoMessageController.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoPostController.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoTableViewController.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoViewController.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/FooterTableViewController.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/MainWindow.nib
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/PkgInfo
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/TTNibDemo.LinkFileList
+c000000004F88DD75000000000000054A
+t1334369653
+s1354
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../src/Three20.bundle
+c000000004E2340CB0000000000000264
+t1310933195
+s612
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../Resources/Default.png
+c000000004E2340CB000000000002E7A8
+t1310933195
+s190376
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../Resources/Icon.png
+c000000004E2340CB0000000000001B41
+t1310933195
+s6977
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m
+c000000004E2340CB0000000000000672
+t1310933195
+s1650
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib
+c000000004E2340CB00000000000061B7
+t1310933195
+s25015
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m
+c000000004E2340CB0000000000000540
+t1310933195
+s1344
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib
+c000000004E2340CB0000000000005A72
+t1310933195
+s23154
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m
+c000000004E2340CB0000000000000BF1
+t1310933195
+s3057
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m
+c000000004E2340CB0000000000000487
+t1310933195
+s1159
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib
+c000000004E2340CB000000000000686E
+t1310933195
+s26734
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m
+c000000004E2340CB0000000000000FC5
+t1310933195
+s4037
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m
+c000000004E2340CB0000000000000B47
+t1310933195
+s2887
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m
+c000000004E2340CB0000000000000947
+t1310933195
+s2375
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib
+c000000004E2340CB00000000000063D6
+t1310933195
+s25558
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib
+c000000004E2340CB00000000000063D5
+t1310933195
+s25557
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Headers/TTNibDemo_Prefix.pch
+c000000004E2340CB0000000000000160
+t1310933195
+s352
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Three20/Three20.h>
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib
+c000000004E2340CB0000000000002C61
+t1310933195
+s11361
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/README.mdown
+c000000004E2340CB0000000000000242
+t1310933195
+s578
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/blueArrow.png
+c000000004E2340CB0000000000001193
+t1310933195
+s4499
+
+N/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m
+c000000004E2340CB000000000000032C
+t1310933195
+s812
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth
+t2
+s0
+
+NTTNibDemo-Info.plist
+c000000004E2340CB000000000000038D
+t1310933195
+s909
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdfe24df51439b541^55da4ef51439b541^---0#1#0#--18"Check dependencies36"C15679D3-AF48-46C1-8711-E4927221F8FB-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567431
+e356062454.652093
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m096d91f61439b541^28f0a6f61439b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m0000000000000000^4401"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o Classes/DemoMessageController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoMessageController.o36"1EFE6B3D-CEC6-49D0-B8B7-0CB5E222D0B2-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567409
+e356062454.637038
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m6a6a91f61439b541^cb14a3f61439b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m0000000000000000^4383"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o Classes/DemoPostController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoPostController.o36"4B5D304E-47DD-40E2-A7D1-51CE25BCF4C1-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567382
+e356062454.641204
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m3c6991f61439b541^0326a4f61439b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m0000000000000000^4413"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o Classes/DemoTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoTableViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoTableViewController.o36"CD91AB5B-F406-4091-AC41-1F0A3944C672-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567419
+e356062454.648538
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m946c91f61439b541^4f07a6f61439b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m0000000000000000^4383"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o Classes/DemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/DemoViewController.o36"10C45606-A977-4C74-8C2A-9B0FA90D2361-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567362
+e356062454.649508
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.mc36591f61439b541^2846a6f61439b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m0000000000000000^4383"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o Classes/NibDemoAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/NibDemoAppDelegate.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/NibDemoAppDelegate.o36"6AC4EEBB-475C-495F-AA9E-53D8271DFEA3-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567395
+e356062454.641319
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m126b91f61439b541^942fa4f61439b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m0000000000000000^4383"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/RootViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/RootViewController.o36"5FD89061-0019-4798-98DC-279A2CD1E23C-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567442
+e356062454.611765
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m556b91f61439b541^6f9c9cf61439b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m0000000000000000^4335"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o Classes/StyleSheet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/StyleSheet.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/StyleSheet.o36"DAF76586-FDAE-4BF8-BD6B-65938C351894-
+
+CCompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.567166
+e356062454.599997
+r1
+xCompileC
+x../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m325891f61439b541^4da399f61439b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m0000000000000000^4283"CompileC ../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/main.m -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/main.o36"A6B26C9C-1C63-4773-B2BB-AAFCC4CEF285-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib
+s356062453.326299
+e356062454.201948
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xibbd7354f51439b541^eeb233f61439b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib0000000000000000^949"CompileXIB Classes/DemoMessageController.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoMessageController.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoMessageController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"7A410412-7DE3-4CF9-9AC8-F254FC1AD37F-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib
+s356062453.326183
+e356062453.396788
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xibff9353f51439b541^149565f51439b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib0000000000000000^940"CompileXIB Classes/DemoPostController.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoPostController.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoPostController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"09660C0C-0911-4256-A2F8-C421D4606EE4-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib
+s356062453.326185
+e356062454.290810
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xibf69553f51439b541^de754af61439b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib0000000000000000^940"CompileXIB Classes/DemoViewController.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoViewController.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Classes/DemoViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"D480FA06-BE66-448C-9540-98DE26112B2E-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib
+s356062453.326078
+e356062454.205053
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xibd68d53f51439b541^e17e34f61439b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib0000000000000000^939"CompileXIB DemoTableViewController.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/DemoTableViewController.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/DemoTableViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"B7C43C61-4F7A-42AA-BB44-8614F2476564-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib
+s356062453.326173
+e356062454.178216
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xibe29253f51439b541^adbf2df61439b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib0000000000000000^945"CompileXIB FooterTableViewController.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/FooterTableViewController.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/FooterTableViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"0389D28D-5E76-4DC3-8279-8EBB47D858E1-
+
+CCompileXIB /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib
+s356062453.325174
+e356062454.139690
+r1
+xCompileXIB
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xibbb7c53f51439b541^211f24f61439b541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib0000000000000000^900"CompileXIB MainWindow.xib    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/MainWindow.nib /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"7453A593-ABAE-49C1-97D1-9EFE8337009B-
+
+CCpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle
+s356062453.350597
+e356062453.390878
+r1
+xCpResource
+x../../../src/Three20.bundle
+x../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle39d659f51439b541^c31164f51439b541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle000000000080d041^804"CpResource ../../../src/Three20.bundle ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Three20.bundle    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../src/Three20.bundle /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"C5260DB2-CD7A-4B1C-9EE0-D05CDD1A3640-
+
+CCpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png
+s356062453.353638
+e356062453.389737
+r1
+xCpResource
+x../../Resources/Default.png
+x../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png6f9e5af51439b541^28d463f51439b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png000000000080d041^801"CpResource ../../Resources/Default.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Default.png    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../Resources/Default.png /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"178D42F0-6986-4673-BCC9-6C2F8E4CB0C0-
+
+CCpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png
+s356062453.391042
+e356062453.393514
+r1
+xCpResource
+x../../Resources/Icon.png
+x../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.pngf53064f51439b541^7fde64f51439b541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png000000000080d041^792"CpResource ../../Resources/Icon.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Icon.png    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../Resources/Icon.png /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"54B26571-CC3D-4686-9785-FED0FDE26F2A-
+
+CCpResource README.mdown ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown
+s356062453.326156
+e356062453.346458
+r1
+xCpResource
+xREADME.mdown
+x../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown299253f51439b541^70d258f51439b541^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown000000000080d041^772"CpResource README.mdown ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/README.mdown    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/README.mdown /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"6D620C14-F60E-411A-AA85-2B36E88793EA-
+
+CCpResource blueArrow.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png
+s356062453.326204
+e356062453.352152
+r1
+xCpResource
+xblueArrow.png
+x../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png039353f51439b541^4a275af51439b541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png000000000080d041^775"CpResource blueArrow.png ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/blueArrow.png    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/blueArrow.png /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"2204055C-32DA-4EE7-B59F-350532679B5F-
+
+CGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo
+s356062454.781284
+e356062455.021186
+r1
+xGenerateDSYMFile
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generating /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYMfe0fc8f61439b541^a06d05f71439b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM000000000080d041^784"GenerateDSYMFile ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app.dSYM36"90D5D192-B377-4C1A-843F-DE191A4313CA-
+
+CLd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo normal i386
+s356062454.658992
+e356062454.774665
+r1
+xLd
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo08c7a8f61439b541^3b51c6f61439b541^---0#0#0#--2323"Ld ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo normal i386    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/Objects-normal/i386/TTNibDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/TTNibDemo36"DCDFCFEF-CCAD-40FE-AE74-159768976151-
+
+CProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist TTNibDemo-Info.plist
+s356062453.313219
+e356062453.316604
+r1
+xProcessInfoPlistFile
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist
+xTTNibDemo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process TTNibDemo-Info.plist193c50f51439b541^8d0d51f51439b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/TTNibDemo-Info.plist0000000000000000^764"ProcessInfoPlistFile ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist TTNibDemo-Info.plist    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TTNibDemo-Info.plist -genpkginfo /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app/Info.plist36"0E9D2765-3168-49FB-938B-B7C43AF22A42-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTNibDemo-dhombrlcwfklynejxfjyhypxdllk/Index/PrecompiledHeaders/TTNibDemo_Prefix-axrdhxsypbshhpcehauxmqrzrkob_ast/TTNibDemo_Prefix.pch.pth Headers/TTNibDemo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth Headers/TTNibDemo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062454.299596
+e356062454.559282
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth
+xHeaders/TTNibDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Headers/TTNibDemo_Prefix.pch36cc4cf61439b541^a52c8ff61439b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Headers/TTNibDemo_Prefix.pch0000000000000000^4255"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth Headers/TTNibDemo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/TTNibDemo-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/TTNibDemo.build/Debug-iphonesimulator/TTNibDemo.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/Headers/TTNibDemo_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTNibDemo_Prefix-ctkeuyhvtnkrogebwebjrloaaekd/TTNibDemo_Prefix.pch.d36"BB9415E5-A4FA-41A6-A1E2-F94DDD5D7815-
+
+CTouch /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app
+s356062455.029437
+e356062455.033934
+r1
+xTouch
+x/Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.appc09607f71439b541^5bb008f71439b541^---0#0#0#--472"Touch ../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app    cd /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robin/Projects/study/ios/Three20/samples/UI/TTNibDemo/../../../Build/Products/Debug-iphonesimulator/TTNibDemo.app36"D44800B4-0B4B-4707-9D20-4F96F3FF4E35-
+

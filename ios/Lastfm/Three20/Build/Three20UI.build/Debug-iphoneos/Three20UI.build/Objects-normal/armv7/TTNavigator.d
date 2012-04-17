@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTNavigator.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPopupViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTModelViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTBaseViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTSearchDisplayController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTableViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTNavigationController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigationController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UI/private/TTNavigatorWindow.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLMap.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigationMode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLAction.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTBaseNavigatorInternal.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/UIViewControllerAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h

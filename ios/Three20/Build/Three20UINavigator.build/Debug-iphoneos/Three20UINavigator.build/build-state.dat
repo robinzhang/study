@@ -1,0 +1,908 @@
+TThree20UINavigator
+v5
+r1
+cCheck dependencies
+cCpHeader Headers/UIViewController+TTNavigatorGarbageCollection.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/UIViewController+TTNavigatorGarbageCollection.h
+cCpHeader Headers/TTURLPatternText.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternText.h
+cCpHeader Headers/TTURLWildcard.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLWildcard.h
+cCpHeader Headers/TTURLArgumentType.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArgumentType.h
+cCpHeader Headers/TTURLLiteral.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLLiteral.h
+cCpHeader Headers/TTURLPatternInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternInternal.h
+cCpHeader Headers/TTURLArguments.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArguments.h
+cCpHeader Headers/TTURLSelector.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLSelector.h
+cCpHeader Headers/TTBaseNavigatorInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTBaseNavigatorInternal.h
+cCpHeader Headers/TTNavigatorDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorDelegate.h
+cCpHeader Headers/Three20UINavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator.h
+cCpHeader Headers/TTURLAction.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLAction.h
+cCpHeader Headers/TTURLGeneratorPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLGeneratorPattern.h
+cCpHeader Headers/TTURLMap.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLMap.h
+cCpHeader Headers/TTURLNavigatorPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLNavigatorPattern.h
+cCpHeader Headers/TTURLPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLPattern.h
+cCpHeader Headers/TTBaseNavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigator.h
+cCpHeader Headers/UIViewController+TTNavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/UIViewController+TTNavigator.h
+cCpHeader Headers/TTURLObject.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLObject.h
+cCpHeader Headers/TTNavigatorPersistenceMode.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+cCpHeader Headers/Three20UINavigator+Additions.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator+Additions.h
+cCpHeader Headers/TTGlobalNavigatorMetrics.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+cCpHeader Headers/TTNavigationMode.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigationMode.h
+cCpHeader Headers/TTNavigatorViewController.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h
+cCpHeader Headers/TTBaseNavigationController.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigationController.h
+cCpHeader Headers/TTNavigatorRootContainer.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorRootContainer.h
+cPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth Headers/Three20UINavigator_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a normal armv7
+cPhaseScriptExecution Lint /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90D70000000000001534
+t1333694679
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F7E90D80000000000000BF5
+t1333694680
+s3061
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSDateAdditions.h
+c000000004F88DC29000000000000094F
+t1334369321
+s2383
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSStringAdditions.h
+c000000004F88DC290000000000001020
+t1334369321
+s4128
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h
+c000000004F88DC2900000000000009FA
+t1334369321
+s2554
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h
+c000000004F88DC290000000000000EC0
+t1334369321
+s3776
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebugFlags.h
+c000000004F88DC2900000000000004D6
+t1334369321
+s1238
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCore.h
+c000000004F88DC2900000000000005E6
+t1334369321
+s1510
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCoreRects.h
+c000000004F88DC290000000000000520
+t1334369321
+s1312
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTBaseViewController.h
+c000000004F88DB720000000000000A48
+t1334369138
+s2632
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTGlobalUICommon.h
+c000000004F88DB72000000000000174C
+t1334369138
+s5964
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/UIView+TTUICommon.h
+c000000004F88DB720000000000000318
+t1334369138
+s792
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/UIViewControllerAdditions.h
+c000000004F88DB720000000000001524
+t1334369138
+s5412
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/private/UIViewControllerGarbageCollection.h
+c000000004F88DB720000000000000349
+t1334369138
+s841
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigationController.h
+t1334369139
+s1295
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigator.h
+t1334369139
+s8639
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+t1334369139
+s1697
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigationMode.h
+t1334369139
+s1097
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorDelegate.h
+t1334369139
+s1623
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+t1334369139
+s840
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorRootContainer.h
+t1334369139
+s877
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h
+t1334369139
+s874
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLAction.h
+t1334369139
+s3261
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLGeneratorPattern.h
+t1334369139
+s889
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLMap.h
+t1334369139
+s5812
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLNavigatorPattern.h
+t1334369139
+s1936
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLObject.h
+t1334369139
+s1175
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLPattern.h
+t1334369139
+s1297
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator+Additions.h
+t1334369139
+s720
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator.h
+t1334369139
+s1412
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/UIViewController+TTNavigator.h
+t1334369139
+s2249
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTBaseNavigatorInternal.h
+t1334369139
+s1062
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArgumentType.h
+t1334369139
+s855
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArguments.h
+t1334369139
+s818
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLLiteral.h
+t1334369139
+s797
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternInternal.h
+t1334369139
+s1031
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternText.h
+t1334369139
+s767
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLSelector.h
+t1334369139
+s1025
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLWildcard.h
+t1334369139
+s1214
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/UIViewController+TTNavigatorGarbageCollection.h
+t1334369139
+s1032
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a
+t1334369323
+s517352
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o
+t1334369323
+s51484
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o
+t1334369323
+s116368
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o
+t1334369323
+s9036
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o
+t1334369323
+s45336
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o
+t1334369323
+s61940
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o
+t1334369323
+s4524
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o
+t1334369323
+s15324
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o
+t1334369323
+s9992
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o
+t1334369323
+s42848
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o
+t1334369323
+s43876
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o
+t1334369323
+s20496
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o
+t1334369323
+s6716
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o
+t1334369323
+s13000
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o
+t1334369323
+s16708
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/Three20UINavigator.LinkFileList
+c000000004F88DC2A0000000000000AA3
+t1334369322
+s2723
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o
+t1334369323
+s53552
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh
+c000000004F88DC2A0000000000000027
+t1334369322
+s39
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh
+c000000004F88DC2A0000000000000026
+t1334369322
+s38
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigationController.h
+c000000004E2340CB000000000000050F
+t1310933195
+s1295
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigator.h
+c000000004E2340CB00000000000021BF
+t1310933195
+s8639
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigatorInternal.h
+c000000004E2340CB0000000000000426
+t1310933195
+s1062
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTGlobalNavigatorMetrics.h
+c000000004E2340CB00000000000006A1
+t1310933195
+s1697
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTNavigationMode.h
+c000000004E2340CB0000000000000449
+t1310933195
+s1097
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTNavigatorDelegate.h
+c000000004E2340CB0000000000000657
+t1310933195
+s1623
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTNavigatorPersistenceMode.h
+c000000004E2340CB0000000000000348
+t1310933195
+s840
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTNavigatorRootContainer.h
+c000000004E2340CB000000000000036D
+t1310933195
+s877
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTNavigatorViewController.h
+c000000004E2340CB000000000000036A
+t1310933195
+s874
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLAction.h
+c000000004E2340CB0000000000000CBD
+t1310933195
+s3261
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLArgumentType.h
+c000000004E2340CB0000000000000357
+t1310933195
+s855
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLArguments.h
+c000000004E2340CB0000000000000332
+t1310933195
+s818
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLGeneratorPattern.h
+c000000004E2340CB0000000000000379
+t1310933195
+s889
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLLiteral.h
+c000000004E2340CB000000000000031D
+t1310933195
+s797
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLMap.h
+c000000004E2340CB00000000000016B4
+t1310933195
+s5812
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLNavigatorPattern.h
+c000000004E2340CB0000000000000790
+t1310933195
+s1936
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLObject.h
+c000000004E2340CB0000000000000497
+t1310933195
+s1175
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLPattern.h
+c000000004E2340CB0000000000000511
+t1310933195
+s1297
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLPatternInternal.h
+c000000004E2340CB0000000000000407
+t1310933195
+s1031
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLPatternText.h
+c000000004E2340CB00000000000002FF
+t1310933195
+s767
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLSelector.h
+c000000004E2340CB0000000000000401
+t1310933195
+s1025
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTURLWildcard.h
+c000000004E2340CB00000000000004BE
+t1310933195
+s1214
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator+Additions.h
+c000000004E2340CB00000000000002D0
+t1310933195
+s720
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator.h
+c000000004E2340CB0000000000000584
+t1310933195
+s1412
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator_Prefix.pch
+c000000004E2340CB00000000000000CA
+t1310933195
+s202
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/UIViewController+TTNavigator.h
+c000000004E2340CB00000000000008C9
+t1310933195
+s2249
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/UIViewController+TTNavigatorGarbageCollection.h
+c000000004E2340CB0000000000000408
+t1310933195
+s1032
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m
+c000000004E2340CB000000000000114D
+t1310933195
+s4429
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m
+c000000004E2340CB0000000000008920
+t1310933195
+s35104
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m
+c000000004E2340CB0000000000000E8B
+t1310933195
+s3723
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m
+c000000004E2340CB000000000000055C
+t1310933195
+s1372
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m
+c000000004E2340CB00000000000011C2
+t1310933195
+s4546
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m
+c000000004E2340CB0000000000000725
+t1310933195
+s1829
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m
+c000000004E2340CB0000000000000F85
+t1310933195
+s3973
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m
+c000000004E2340CB0000000000000632
+t1310933195
+s1586
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m
+c000000004E2340CB0000000000004B05
+t1310933195
+s19205
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m
+c000000004E2340CB0000000000003BD4
+t1310933195
+s15316
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m
+c000000004E2340CB00000000000013AB
+t1310933195
+s5035
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m
+c000000004E2340CB00000000000005AA
+t1310933195
+s1450
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m
+c000000004E2340CB0000000000000D3D
+t1310933195
+s3389
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m
+c000000004E2340CB0000000000000B3E
+t1310933195
+s2878
+
+N/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m
+c000000004E2340CB0000000000001AB2
+t1310933195
+s6834
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth
+t1334369323
+s3977808
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6b455b326f3ab541^a08b5e326f3ab541^---0#1#0#--18"Check dependencies36"CCE5591C-5ACE-459A-83F3-90AEF585A7BC-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.298772
+e356062123.392007
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m21904fab1339b541^c45a64ab1339b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m0000000000000000^4383"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o Sources/TTBaseNavigationController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigationController.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigationController.o36"7F2CFEB1-46DB-45C5-A423-5D0FB18B70CB-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.247830
+e356062123.430331
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m:681:69: warning: conflicting parameter types in implementation of 'viewControllerForURL:query:pattern:': 'TTURLPattern **' vs 'TTURLNavigatorPattern **'
+o                                  pattern: (TTURLNavigatorPattern**)pattern {
+o                                            ~~~~~~~~~~~~~~~~~~~~~~~ ^
+o/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigator.h:226:59: note: previous definition is here
+o                                  pattern:(TTURLPattern**)pattern;
+o                                           ~~~~~~~~~~~~~~ ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m04ae3fab1339b541^7d936eab1339b541^-669"/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m:681:69: warning: conflicting parameter types in implementation of 'viewControllerForURL:query:pattern:': 'TTURLPattern **' vs 'TTURLNavigatorPattern **'                                  pattern: (TTURLNavigatorPattern**)pattern {                                            ~~~~~~~~~~~~~~~~~~~~~~~ ^/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigator.h:226:59: note: previous definition is here                                  pattern:(TTURLPattern**)pattern;                                           ~~~~~~~~~~~~~~ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@135"Conflicting parameter types in implementation of 'viewControllerForURL:query:pattern:': 'TTURLPattern **' vs 'TTURLNavigatorPattern **'-356062123#18446744073709551615#0#1(2@27"Previous definition is here-356062123#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@104"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigator.h0000000000000000^225#58#225#58#7142#0#30"Apple LLVM compiler 3.1 Notice1(3@104"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/TTBaseNavigator.h0000000000000000^225#43#225#57#7127#13#-1#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m0000000000000000^680#68#680#68#23790#0#14"Semantic Issue1(3@104"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m0000000000000000^680#44#680#67#23766#22#-0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m0000000000000000^4317"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o Sources/TTBaseNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTBaseNavigator.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTBaseNavigator.o36"E7DD54A8-6EA8-46C8-9FCC-5A46891A5CFA-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.272039
+e356062123.324675
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.mc6e045ab1339b541^c05c53ab1339b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m0000000000000000^4371"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o Sources/TTGlobalNavigatorMetrics.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTGlobalNavigatorMetrics.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTGlobalNavigatorMetrics.o36"AA7FFFF8-CBA2-4BF3-B382-AC19607B2A9A-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.285893
+e356062123.366725
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m026749ab1339b541^c1e15dab1339b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m0000000000000000^4377"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o Sources/TTNavigatorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTNavigatorViewController.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTNavigatorViewController.o36"9E298881-1CBB-4213-B521-F3FC0DE3496B-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198039
+e356062123.309460
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m51fa32ab1339b541^e17f4fab1339b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m0000000000000000^4293"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o Sources/TTURLAction.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLAction.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLAction.o36"E0D7FA68-4248-4870-919B-C678472DF383-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.245297
+e356062123.283875
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m2b123fab1339b541^38f648ab1339b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m0000000000000000^4311"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o Sources/TTURLArguments.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLArguments.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLArguments.o36"89E8D212-3347-4411-B7BD-DAFA37D20CB7-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198089
+e356062123.246651
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m7bf832ab1339b541^4f213fab1339b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m0000000000000000^4353"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o Sources/TTURLGeneratorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLGeneratorPattern.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLGeneratorPattern.o36"7207A7FB-AE2D-42D3-8A9B-9D40B0873498-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198092
+e356062123.243759
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m960533ab1339b541^7e743eab1339b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m0000000000000000^4299"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o Sources/TTURLLiteral.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLLiteral.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLLiteral.o36"97231E9B-AD10-4735-8D8F-F9879238044D-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198005
+e356062123.323710
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.mf8fe32ab1339b541^cee152ab1339b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m0000000000000000^4275"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o Sources/TTURLMap.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLMap.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLMap.o36"F256BE19-1022-43FA-ADA0-60F1623E00B5-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198106
+e356062123.321556
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m:490:49: warning: more '%' conversions than data arguments [-Wformat]
+o      TTDWARNING(@"No object created from URL:'%@' URL");
+o      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+o/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h:90:41: note: expanded from macro 'TTDWARNING'
+o  #define TTDWARNING(xx, ...)  TTDPRINT(xx, ##__VA_ARGS__)
+o                                        ^
+o/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h:53:48: note: expanded from macro 'TTDPRINT'
+o  #define TTDPRINT(xx, ...)  NSLog(@"%s(%d): " xx, __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+o                                               ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m150033ab1339b541^84d352ab1339b541^-900"/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m:490:49: warning: more '%' conversions than data arguments [-Wformat]      TTDWARNING(@"No object created from URL:'%@' URL");      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h:90:41: note: expanded from macro 'TTDWARNING'  #define TTDWARNING(xx, ...)  TTDPRINT(xx, ##__VA_ARGS__)                                        ^/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTDebug.h:53:48: note: expanded from macro 'TTDPRINT'  #define TTDPRINT(xx, ...)  NSLog(@"%s(%d): " xx, __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)                                               ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"More '%' conversions than data arguments-356062123#18446744073709551615#0#2(2@32"Expanded from macro 'TTDWARNING'-356062123#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Core/Headers/TTDebug.h0000000000000000^89#40#89#40#3116#0#30"Apple LLVM compiler 3.1 Notice1(3@89"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Core/Headers/TTDebug.h0000000000000000^489#6#489#6#18#0#-2@30"Expanded from macro 'TTDPRINT'-356062123#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Core/Headers/TTDebug.h0000000000000000^52#47#52#47#1917#0#30"Apple LLVM compiler 3.1 Notice1(3@89"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20Core/Headers/TTDebug.h0000000000000000^52#47#52#47#1917#0#-1#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m0000000000000000^489#48#489#48#31#0#19"Format String Issue1(3@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m0000000000000000^489#6#489#6#30#2#-0#0#0#-19%DVTDocumentLocation4@110"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m0000000000000000^4353"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o Sources/TTURLNavigatorPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLNavigatorPattern.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLNavigatorPattern.o36"F8884D9A-1520-403F-B04E-62674725012E-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198129
+e356062123.268544
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m320533ab1339b541^ae0d45ab1339b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m0000000000000000^4299"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o Sources/TTURLPattern.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPattern.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPattern.o36"1EC0BA59-9CDC-4FBE-B59D-4B87D9D32D30-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198113
+e356062123.240284
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m7c0f33ab1339b541^2a903dab1339b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m0000000000000000^4347"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o Sources/TTURLPatternInternal.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLPatternInternal.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLPatternInternal.o36"DAF9A623-A29D-471E-B50F-CD188E20AC07-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.198284
+e356062123.254560
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.med1033ab1339b541^c53a41ab1339b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m0000000000000000^4305"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o Sources/TTURLSelector.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLSelector.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLSelector.o36"260FD6AB-EC8A-4595-BA19-5532D25EFFDE-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.241743
+e356062123.293300
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m59183eab1339b541^33524bab1339b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m0000000000000000^4305"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o Sources/TTURLWildcard.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/TTURLWildcard.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/TTURLWildcard.o36"7904E4C2-7CEE-4B74-8669-426EB67244E7-
+
+CCompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062123.256270
+e356062123.350029
+r1
+xCompileC
+x../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m4ace41ab1339b541^87c059ab1339b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m0000000000000000^4395"CompileC ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o Sources/UIViewController+TTNavigator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Sources/UIViewController+TTNavigator.m -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/UIViewController+TTNavigator.o36"9D6FCDDE-374B-49FB-8243-5E1C73EB2E8C-
+
+CCpHeader Headers/TTBaseNavigationController.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigationController.h
+r0
+
+CCpHeader Headers/TTBaseNavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigator.h
+r0
+
+CCpHeader Headers/TTBaseNavigatorInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTBaseNavigatorInternal.h
+r0
+
+CCpHeader Headers/TTGlobalNavigatorMetrics.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+r0
+
+CCpHeader Headers/TTNavigationMode.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigationMode.h
+r0
+
+CCpHeader Headers/TTNavigatorDelegate.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorDelegate.h
+r0
+
+CCpHeader Headers/TTNavigatorPersistenceMode.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+r0
+
+CCpHeader Headers/TTNavigatorRootContainer.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorRootContainer.h
+r0
+
+CCpHeader Headers/TTNavigatorViewController.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h
+r0
+
+CCpHeader Headers/TTURLAction.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLAction.h
+r0
+
+CCpHeader Headers/TTURLArgumentType.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArgumentType.h
+r0
+
+CCpHeader Headers/TTURLArguments.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLArguments.h
+r0
+
+CCpHeader Headers/TTURLGeneratorPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLGeneratorPattern.h
+r0
+
+CCpHeader Headers/TTURLLiteral.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLLiteral.h
+r0
+
+CCpHeader Headers/TTURLMap.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLMap.h
+r0
+
+CCpHeader Headers/TTURLNavigatorPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLNavigatorPattern.h
+r0
+
+CCpHeader Headers/TTURLObject.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLObject.h
+r0
+
+CCpHeader Headers/TTURLPattern.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTURLPattern.h
+r0
+
+CCpHeader Headers/TTURLPatternInternal.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternInternal.h
+r0
+
+CCpHeader Headers/TTURLPatternText.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLPatternText.h
+r0
+
+CCpHeader Headers/TTURLSelector.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLSelector.h
+r0
+
+CCpHeader Headers/TTURLWildcard.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/TTURLWildcard.h
+r0
+
+CCpHeader Headers/Three20UINavigator+Additions.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator+Additions.h
+r0
+
+CCpHeader Headers/Three20UINavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/Three20UINavigator.h
+r0
+
+CCpHeader Headers/UIViewController+TTNavigator.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/UIViewController+TTNavigator.h
+r0
+
+CCpHeader Headers/UIViewController+TTNavigatorGarbageCollection.h ../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/private/UIViewController+TTNavigatorGarbageCollection.h
+r0
+
+CLibtool /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a normal armv7
+s356062123.437628
+e356062123.447176
+r1
+xLibtool
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Libtool ../../Build/Products/Debug-iphoneos/libThree20UINavigator.a normal armv7401870ab1339b541^34be7fab1339b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1167"Libtool ../../Build/Products/Debug-iphoneos/libThree20UINavigator.a normal armv7    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib -filelist /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/Three20UINavigator.LinkFileList -ObjC -o /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a36"76A4A789-BF14-446C-808F-6E3D680C6678-
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh
+s356151090.376470
+e356151090.390039
+r1
+xPhaseScriptExecution
+xProtect Copied Headers
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Run custom shell script 'Protect Copied Headers'c90361326f3ab541^f1d863326f3ab541^---0#0#0#--22235"PhaseScriptExecution "Protect Copied Headers" ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER robin    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD_32_64_BIT armv7    setenv ARCHS_STANDARD_32_BIT armv7    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME Three20UINavigator    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos    setenv CACHE_ROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Three20UINavigator.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME libThree20UINavigator.a.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libThree20UINavigator.a    setenv EXECUTABLE_PATH libThree20UINavigator.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libThree20UINavigator.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/Three20UINavigator.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER robin    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/Three20UINavigator.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal/armv7/Three20UINavigator.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50d    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Objects-normal    setenv OBJROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 9B176    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/Three20UINavigator/private    setenv PRODUCT_NAME Three20UINavigator    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT Three20UINavigator    setenv PROJECT_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/DerivedSources    setenv PROJECT_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv PROJECT_FILE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Three20UINavigator.xcodeproj    setenv PROJECT_NAME Three20UINavigator    setenv PROJECT_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/Three20UINavigator    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../..    setenv REZ_COLLECTOR_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos\" "    setenv ROOT_SOURCE_PATH /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_NAME iphoneos5.1    setenv SDK_PRODUCT_BUILD_VERSION 9B176    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv SRCROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Three20UINavigator    setenv TARGET_BUILD_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos    setenv TARGET_NAME Three20UINavigator    setenv TARGET_TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build    setenv TEMP_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build    setenv TEMP_FILES_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build    setenv TEMP_FILE_DIR /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build    setenv TEMP_ROOT /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER robin    setenv USER_APPS_DIR /Users/robin/Applications    setenv USER_LIBRARY_DIR /Users/robin/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER robin    setenv VERSION_INFO_FILE Three20UINavigator_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Three20UINavigator  PROJECT:Three20UINavigator-\""    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4E2002    setenv XCODE_VERSION_ACTUAL 0432    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0430    setenv YACC yacc    /bin/sh -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-6E645F461187B01F00F08CB1.sh36"AD0FCD37-0B75-4A2F-BCE1-2703C3DF4FC9-
+
+CPhaseScriptExecution Lint /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh
+s356151090.422573
+e356151090.557443
+r1
+xPhaseScriptExecution
+xLint
+x/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Run custom shell script 'Lint'0f9b6c326f3ab541^70b58e326f3ab541^---0#0#0#--398"PhaseScriptExecution Lint ../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    /bin/sh -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Script-668E661D131ADFEA00ACE4AB.sh36"14196F94-82C5-487D-A994-4485449A1ED4-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTCatalog-eqyvrxtkbbqnoebtzthcermqqaji/Index/PrecompiledHeaders/Three20UINavigator_Prefix-episqmwfjbtntefjhzspegmxhuej_ast/Three20UINavigator_Prefix.pch.pth Headers/Three20UINavigator_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth Headers/Three20UINavigator_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062122.975432
+e356062123.190227
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth
+xHeaders/Three20UINavigator_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Precompile Headers/Three20UINavigator_Prefix.pch9ddaf9aa1339b541^57b530ab1339b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator_Prefix.pch0000000000000000^4237"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth Headers/Three20UINavigator_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.0 -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/Three20UINavigator-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos/../../three20 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources/armv7 -I/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Three20UINavigator.build/Debug-iphoneos/Three20UINavigator.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/../../Build/Products/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/src/Three20UINavigator/Headers/Three20UINavigator_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20UINavigator_Prefix-dmtksnkghulebzamtczxspcazvbo/Three20UINavigator_Prefix.pch.d36"F9F6FB0C-71FC-45CF-8908-73DE12CF73AA-
+

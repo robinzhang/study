@@ -1,0 +1,477 @@
+TTTFacebook
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist TTFacebook-Info.plist
+cCpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle
+cCpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png
+cCpResource ../Resources/Icon.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png
+cCpResource Resources/stylesheet.css ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css
+cCpResource ../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth Headers/TTFacebook_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook normal i386
+cGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook
+cTouch /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F7E90E30000000000244490
+t1333694691
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F7E90E30000000000353830
+t1333694691
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90E30000000000001534
+t1333694691
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F7E90E500000000001AB190
+t1333694693
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F7E90E50000000000000BF5
+t1333694693
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F7E90E60000000000905E40
+t1333694694
+s9461312
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004F88DC6000000000000007A8
+t1334369376
+s1960
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004F88DC360000000000042DC8
+t1334369334
+s273864
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004F88DC5A0000000000055730
+t1334369370
+s350000
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004F88DC5C0000000000123310
+t1334369372
+s1192720
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004F88DC5E000000000067FC08
+t1334369374
+s6814728
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004F88DC360000000000054150
+t1334369334
+s344400
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004F88DC360000000000086900
+t1334369334
+s551168
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20CSSStyle.a
+c000000004F88DD06000000000003A440
+t1334369542
+s238656
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a
+c000000004F88DD060000000000040FC0
+t1334369542
+s266176
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/three20/Three20/Three20.h
+c000000004F88DC5F0000000000000388
+t1334369375
+s904
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/PkgInfo
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebook.LinkFileList
+c000000004F88DD070000000000000495
+t1334369543
+s1173
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../src/Three20.bundle
+c000000004E2340CB0000000000000264
+t1310933195
+s612
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle
+c000000004E2340CB0000000000000066
+t1310933195
+s102
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../Resources/Default.png
+c000000004E2340CB000000000002E7A8
+t1310933195
+s190376
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../Resources/Icon.png
+c000000004E2340CB0000000000001B41
+t1310933195
+s6977
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.h
+c000000004E2340CB00000000000002BD
+t1310933195
+s701
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m
+c000000004E2340CB00000000000002BC
+t1310933195
+s700
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m
+c000000004E2340CB00000000000009D2
+t1310933195
+s2514
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m
+c000000004E2340CB0000000000000540
+t1310933195
+s1344
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m
+c000000004E2340CB0000000000000C9E
+t1310933195
+s3230
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m
+c000000004E2340CB0000000000000EC9
+t1310933195
+s3785
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m
+c000000004E2340CB00000000000008B9
+t1310933195
+s2233
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Headers/TTFacebook_Prefix.pch
+c000000004E2340CB000000000000011F
+t1310933195
+s287
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Three20/Three20.h"
+i"extThree20CSSStyle/extThree20CSSStyle.h"
+i"Atlas.h"
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Resources/stylesheet.css
+c000000004E2340CB000000000000030E
+t1310933195
+s782
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m
+c000000004E2340CB000000000000031E
+t1310933195
+s798
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth
+t2
+s0
+
+NTTFacebook-Info.plist
+c000000004E2340CB0000000000000356
+t1310933195
+s854
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7c2bd6871439b541^4fb1d6871439b541^---0#1#0#--18"Check dependencies36"B9152DB5-A7A3-4C13-ACA7-CF2AC00AAAC2-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.144753
+e356062344.226542
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m302a25881439b541^76fe39881439b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m0000000000000000^4290"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/AppDelegate.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/AppDelegate.o36"389BEAF7-E3CE-425B-8A9B-962C660F42F0-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.145238
+e356062344.186933
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m825525881439b541^d7da2f881439b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m0000000000000000^4238"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Atlas.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/Atlas.o36"7AE6D9D8-DF0C-4BC5-B7B0-1026D262A74C-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.145290
+e356062344.194832
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m9f5625881439b541^93e031881439b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m0000000000000000^4308"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o Classes/TTFacebookPost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookPost.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookPost.o36"2C828BB6-92DC-4306-8871-487B45C30E61-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.145312
+e356062344.220680
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m9c4f25881439b541^397e38881439b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m0000000000000000^4404"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o Classes/TTFacebookSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedDataSource.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedDataSource.o36"1C98AD79-9EE5-456D-8E62-DF4456E58E26-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.145318
+e356062344.203479
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.mea5825881439b541^7b1634881439b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m0000000000000000^4374"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o Classes/TTFacebookSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedModel.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedModel.o36"F2820978-F709-4945-9FC5-2C81687EE755-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.145321
+e356062344.222726
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m975825881439b541^2e0439881439b541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m0000000000000000^4428"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o Classes/TTFacebookSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Classes/TTFacebookSearchFeedViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebookSearchFeedViewController.o36"E2D222B6-3F53-4462-BF8B-32DEDE2B6802-
+
+CCompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062344.144742
+e356062344.183983
+r1
+xCompileC
+x../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m842a25881439b541^ac1b2f881439b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m0000000000000000^4232"CompileC ../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/main.m -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/main.o36"DAEEB254-284A-4D48-A115-92A9F0B34CA4-
+
+CCpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle
+s356062343.867403
+e356062343.874854
+r1
+xCpResource
+x../../src/Three20.bundle
+x../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundlee61ede871439b541^cbf8df871439b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle000000000080d041^788"CpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Three20.bundle    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../src/Three20.bundle /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"A1F11026-7DD6-41A3-BC6C-6578D67DB482-
+
+CCpResource ../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle
+s356062343.867725
+e356062343.875579
+r1
+xCpResource
+x../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle
+x../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle3430de871439b541^0326e0871439b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle000000000080d041^879"CpResource ../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/extThree20CSSStyle.bundle    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"C46B7FB6-B3BC-47B3-BC77-A57A3D5E8FBA-
+
+CCpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png
+s356062343.867435
+e356062343.871402
+r1
+xCpResource
+x../Resources/Default.png
+x../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png0420de871439b541^0e15df871439b541^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png000000000080d041^785"CpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Default.png    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../Resources/Default.png /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"60298F3D-7C83-4124-8327-77326E1814C6-
+
+CCpResource ../Resources/Icon.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png
+s356062343.867453
+e356062343.871768
+r1
+xCpResource
+x../Resources/Icon.png
+x../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.pnge21fde871439b541^622cdf871439b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png000000000080d041^776"CpResource ../Resources/Icon.png ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Icon.png    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../Resources/Icon.png /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"4E90092C-1AF5-40AA-A70C-B823AAAC1B69-
+
+CCpResource Resources/stylesheet.css ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css
+s356062343.867723
+e356062343.875375
+r1
+xCpResource
+xResources/stylesheet.css
+x../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css622dde871439b541^1d1ce0871439b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css000000000080d041^788"CpResource Resources/stylesheet.css ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/stylesheet.css    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Resources/stylesheet.css /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"686650C3-59DF-4302-B2AF-E04CC156BF36-
+
+CGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook
+s356062344.413848
+e356062344.652406
+r1
+xGenerateDSYMFile
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Generating /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYMde016a881439b541^d602a7881439b541^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM000000000080d041^772"GenerateDSYMFile ../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app.dSYM36"3DB3AA75-13F4-4BF2-9BCC-51536B5F5B76-
+
+CLd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook normal i386
+s356062344.238814
+e356062344.406770
+r1
+xLd
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook37383d881439b541^4f2468881439b541^---0#0#0#--2508"Ld ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook normal i386    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/Objects-normal/i386/TTFacebook.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20CSSStyle.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/TTFacebook36"69E4F0FA-4865-4B4F-9A6F-F65323AFB5D4-
+
+CProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist TTFacebook-Info.plist
+s356062343.855356
+e356062343.858350
+r1
+xProcessInfoPlistFile
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist
+xTTFacebook-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Process TTFacebook-Info.plistd506db871439b541^49bddb871439b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/TTFacebook-Info.plist0000000000000000^754"ProcessInfoPlistFile ../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist TTFacebook-Info.plist    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TTFacebook-Info.plist -genpkginfo /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app/Info.plist36"F91B04EE-1CFD-466A-8A4E-26CCAD447794-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTFacebook-hdkmhzmzcisxircepkhsvvqnsscv/Index/PrecompiledHeaders/TTFacebook_Prefix-bjyxcuauytoxsfcyidgachqcpypu_ast/TTFacebook_Prefix.pch.pth Headers/TTFacebook_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth Headers/TTFacebook_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062343.884821
+e356062344.137856
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth
+xHeaders/TTFacebook_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Headers/TTFacebook_Prefix.pchf19fe2871439b541^f14923881439b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Headers/TTFacebook_Prefix.pch0000000000000000^4222"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth Headers/TTFacebook_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/TTFacebook-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/TTFacebook.build/Debug-iphonesimulator/TTFacebook.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/Headers/TTFacebook_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTFacebook_Prefix-exafsimnkjsyindblyznnfemrvni/TTFacebook_Prefix.pch.d36"B34CE87B-6B90-4040-985C-7B52EC0502BE-
+
+CTouch /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app
+s356062344.661418
+e356062344.665853
+r1
+xTouch
+x/Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app7460a9881439b541^ff75aa881439b541^---0#0#0#--464"Touch ../../Build/Products/Debug-iphonesimulator/TTFacebook.app    cd /Users/robin/Projects/study/ios/Three20/samples/TTFacebook    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robin/Projects/study/ios/Three20/samples/TTFacebook/../../Build/Products/Debug-iphonesimulator/TTFacebook.app36"B7D801DF-D9EB-4C45-91C5-949C9138D8F3-
+

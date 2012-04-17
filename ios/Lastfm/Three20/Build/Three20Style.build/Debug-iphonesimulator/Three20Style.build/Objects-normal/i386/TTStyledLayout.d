@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Sources/TTStyledLayout.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledLayout.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledFrame.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTBoxStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTPosition.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTTextStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledElement.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledInlineFrame.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledBoxFrame.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledTextFrame.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledImageFrame.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/UIFontAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledImageNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledBoldNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledInline.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledItalicNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledLinkNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledBlock.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledLineBreakNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/Headers/TTStyledTextNode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20Style/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h

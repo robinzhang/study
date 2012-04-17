@@ -1,0 +1,433 @@
+TTTTwitter
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist TTTwitter-Info.plist
+cCpResource Icon.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png
+cCpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle
+cCpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png
+cProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth Headers/TTTwitter_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter normal i386
+cGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter
+cTouch /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F7E90E30000000000244490
+t1333694691
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F7E90E30000000000353830
+t1333694691
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F7E90E30000000000001534
+t1333694691
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F7E90E500000000001AB190
+t1333694693
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F7E90E50000000000000BF5
+t1333694693
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F7E90E60000000000905E40
+t1333694694
+s9461312
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004F88DC6000000000000007A8
+t1334369376
+s1960
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004F88DC360000000000042DC8
+t1334369334
+s273864
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004F88DC5A0000000000055730
+t1334369370
+s350000
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004F88DC5C0000000000123310
+t1334369372
+s1192720
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004F88DC5E000000000067FC08
+t1334369374
+s6814728
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004F88DC360000000000054150
+t1334369334
+s344400
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004F88DC360000000000086900
+t1334369334
+s551168
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a
+c000000004F88DD060000000000040FC0
+t1334369542
+s266176
+
+N/Users/robin/Projects/study/ios/Three20/Build/Products/three20/Three20/Three20.h
+c000000004F88DC5F0000000000000388
+t1334369375
+s904
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/PkgInfo
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitter.LinkFileList
+c000000004F88DD51000000000000047D
+t1334369617
+s1149
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../src/Three20.bundle
+c000000004E2340CB0000000000000264
+t1310933195
+s612
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../Resources/Default.png
+c000000004E2340CB000000000002E7A8
+t1310933195
+s190376
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m
+c000000004E2340CB0000000000000831
+t1310933195
+s2097
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.h
+c000000004E2340CB0000000000000299
+t1310933195
+s665
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m
+c000000004E2340CB0000000000000291
+t1310933195
+s657
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m
+c000000004E2340CB0000000000000F2D
+t1310933195
+s3885
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m
+c000000004E2340CB000000000000109B
+t1310933195
+s4251
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m
+c000000004E2340CB000000000000075F
+t1310933195
+s1887
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m
+c000000004E2340CB000000000000054E
+t1310933195
+s1358
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Headers/TTTwitter_Prefix.pch
+c000000004E2340CB00000000000000E9
+t1310933195
+s233
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Three20/Three20.h"
+i"Atlas.h"
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Icon.png
+c000000004E2340CB0000000000001199
+t1310933195
+s4505
+
+N/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m
+c000000004E2340CB000000000000031E
+t1310933195
+s798
+
+N/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth
+t2
+s0
+
+NTTTwitter-Info.plist
+c000000004E2340CB0000000000000356
+t1310933195
+s854
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m
+r0
+
+CBuild AST from /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5a495bd11439b541^a70399d11439b541^---0#1#0#--18"Check dependencies36"936BC615-D46D-470C-B8B1-6A47A09D6609-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814320
+e356062417.890004
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m32aad0d11439b541^1689e5d11439b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m0000000000000000^4248"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/AppDelegate.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/AppDelegate.o36"7B47B5C3-8F44-4814-B814-15A96F0FB268-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814327
+e356062417.841223
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.mbea5d0d11439b541^dffbd7d11439b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m0000000000000000^4212"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o Classes/Atlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/Atlas.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/Atlas.o36"ECD33E3A-138C-49CA-A4FD-03A7C5A5E6F8-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814544
+e356062417.893634
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m24b9d0d11439b541^4c8ce5d11439b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m0000000000000000^4356"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o Classes/TTTwitterSearchFeedDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedDataSource.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedDataSource.o36"161F2A21-C3AA-4FDC-BC3B-2791C09240D1-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814332
+e356062417.871948
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m22a6d0d11439b541^4582e5d11439b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m0000000000000000^4326"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o Classes/TTTwitterSearchFeedModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedModel.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedModel.o36"5D6E5621-00B6-4F1B-93A9-1F3120FAA202-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814335
+e356062417.887724
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m8aadd0d11439b541^ad85e5d11439b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m0000000000000000^4380"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o Classes/TTTwitterSearchFeedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterSearchFeedViewController.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterSearchFeedViewController.o36"2BEE806A-DA76-4D4A-AEA1-0D60E3F78567-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814791
+e356062417.871897
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.me8bed0d11439b541^397de5d11439b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m0000000000000000^4266"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o Classes/TTTwitterTweet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Classes/TTTwitterTweet.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitterTweet.o36"E1B291F5-0AFA-452B-921B-998696BE20AA-
+
+CCompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.814304
+e356062417.843957
+r1
+xCompileC
+x../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.mfda2d0d11439b541^4110d8d11439b541^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m0000000000000000^4190"CompileC ../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -include /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch -MMD -MT dependencies -MF /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/main.m -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/main.o36"206C3D1B-6033-446F-BA43-FDE48D3F9143-
+
+CCpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle
+s356062417.466883
+e356062417.475315
+r1
+xCpResource
+x../../src/Three20.bundle
+x../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle6aa277d11439b541^aa8299d11439b541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle000000000080d041^783"CpResource ../../src/Three20.bundle ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Three20.bundle    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../src/Three20.bundle /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app36"73E22ACA-4A4D-46BC-A56D-C43E46AB74C9-
+
+CCpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png
+s356062417.466898
+e356062417.472472
+r1
+xCpResource
+x../Resources/Default.png
+x../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png6ea577d11439b541^e97f99d11439b541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png000000000080d041^780"CpResource ../Resources/Default.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Default.png    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../Resources/Default.png /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app36"AC94C4D2-19E2-40FF-A047-ABEC89548E6B-
+
+CCpResource Icon.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png
+s356062417.466887
+e356062417.471170
+r1
+xCpResource
+xIcon.png
+x../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png59a277d11439b541^a67b99d11439b541^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png000000000080d041^745"CpResource Icon.png ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Icon.png    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Icon.png /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app36"534FE9D7-1291-49B1-8310-22D1E204F970-
+
+CGenerateDSYMFile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter
+s356062418.049929
+e356062418.315154
+r1
+xGenerateDSYMFile
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generating /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM0edd0cd21439b541^b8ae50d21439b541^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM000000000080d041^763"GenerateDSYMFile ../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app.dSYM36"0C04248B-3251-4F96-826F-CFB965EE61C2-
+
+CLd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter normal i386
+s356062417.900171
+e356062418.043752
+r1
+xLd
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter1f86e6d11439b541^ac3a0bd21439b541^---0#0#0#--2395"Ld ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter normal i386    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/Objects-normal/i386/TTTwitter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Core.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Network.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20Style.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20UI.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a /Users/robin/Projects/study/ios/Three20/Build/Products/Debug-iphonesimulator/libThree20.a -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/TTTwitter36"AF62620A-31C6-4E12-BEF5-10B36E7F3B77-
+
+CProcessInfoPlistFile /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist TTTwitter-Info.plist
+s356062417.455265
+e356062417.459512
+r1
+xProcessInfoPlistFile
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist
+xTTTwitter-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process TTTwitter-Info.plist53ae74d11439b541^316099d11439b541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/TTTwitter-Info.plist0000000000000000^746"ProcessInfoPlistFile ../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist TTTwitter-Info.plist    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TTTwitter-Info.plist -genpkginfo /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app/Info.plist36"B9B32C12-84AF-48CA-AF93-E4BE392EBDD2-
+
+CProcessPCH /Users/robin/Library/Developer/Xcode/DerivedData/TTTwitter-ciltdzyfawytqbcaivdxdhwyssaw/Index/PrecompiledHeaders/TTTwitter_Prefix-gbyiypzvbecqatejhypotdpnvvcr_ast/TTTwitter_Prefix.pch.pth Headers/TTTwitter_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth Headers/TTTwitter_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356062417.483305
+e356062417.806799
+r1
+xProcessPCH
+x/var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth
+xHeaders/TTTwitter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Headers/TTTwitter_Prefix.pchd6fd7bd11439b541^f4a6d2d11439b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Headers/TTTwitter_Prefix.pch0000000000000000^4183"ProcessPCH /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth Headers/TTTwitter_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-generated-files.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-own-target-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-all-target-headers.hmap -iquote /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/TTTwitter-project-headers.hmap -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/../../three20 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources/i386 -I/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/TTTwitter.build/Debug-iphonesimulator/TTTwitter.build/DerivedSources -F/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.dia -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/Headers/TTTwitter_Prefix.pch -o /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0f/94wqc8tj7k7csbb9nc9x5brc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TTTwitter_Prefix-hhribcgrvtwnfpeaijohnpimlstd/TTTwitter_Prefix.pch.d36"C2317CC0-8923-4470-9BA2-83E3BF5869D9-
+
+CTouch /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app
+s356062418.324903
+e356062418.329818
+r1
+xTouch
+x/Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Touch /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.appd23953d21439b541^5f7954d21439b541^---0#0#0#--460"Touch ../../Build/Products/Debug-iphonesimulator/TTTwitter.app    cd /Users/robin/Projects/study/ios/Three20/samples/TTTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robin/Projects/study/ios/Three20/samples/TTTwitter/../../Build/Products/Debug-iphonesimulator/TTTwitter.app36"A3ADA056-05AF-4171-925C-EE8673D48682-
+

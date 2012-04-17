@@ -24,19 +24,19 @@
         // Custom initialization
         //[self.view setBackgroundColor:[UIColor blueColor]];
         
-        self.title = @"发布";
-        UITabBarItem *item = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"tab_public.png"] tag:2] autorelease];
+        self.title = @"佛音";
+        UITabBarItem *item = [[[UITabBarItem alloc] initWithTitle:self.title image:[UIImage imageNamed:@"tab_music.png"] tag:2] autorelease];
         self.tabBarItem = item;
 
        
         
-        _text = [[UITextField alloc] init];
+        _text = [[UITextField alloc] initWithFrame:CGRectMake(10,8,280,30)];
         [_text setFont:[UIFont systemFontOfSize:14]];
         _text.placeholder = @"新闻内容";
         [_text setTextAlignment:UITextAlignmentLeft];
         [_text setTextColor:[UIColor grayColor]];
         //[_text sizeToFit];
-        [_text setFrame:CGRectMake(10, 8, 280, 30)];
+        //[_text setFrame:CGRectMake(10, 8, 280, 30)];
         [_text setEnabled:NO];
         
         //initWithFrame:CGRectMake(5, 5, 280, 25)];
@@ -130,8 +130,8 @@
     [super viewWillAppear:animated];
     self.navigationItem.rightBarButtonItem = btnSubmit;
     
-    CGRect frame = self.view.bounds;
-    [self.tableView setFrame:CGRectMake(0, KPageTitleHeight, frame.size.width, frame.size.height - KPageTitleHeight)];
+    //CGRect frame = self.view.bounds;
+    //[self.tableView setFrame:CGRectMake(0, KPageTitleHeight, frame.size.width, frame.size.height - KPageTitleHeight)];
     
     if (![[GANTracker sharedTracker] trackPageview:[[self class] description]  withError:nil]) {
         // Handle error here
@@ -148,7 +148,7 @@
 
 -(void)createModel
 {
-    self.tableViewStyle = UITableViewStyleGrouped;
+    self.tableViewStyle=UITableViewStyleGrouped; //= UITableViewStyleGrouped;
     self.variableHeightRows = NO;
     
     UIControl *control = [[[UIControl alloc] initWithFrame:CGRectMake(0, 0, 320, 35)] autorelease];

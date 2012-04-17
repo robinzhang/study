@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTImageView.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTImageView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTImageViewDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UI/private/TTImageLayer.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UI/private/TTImageViewInternal.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTShape.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleContext.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTContentStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/UIImageAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h

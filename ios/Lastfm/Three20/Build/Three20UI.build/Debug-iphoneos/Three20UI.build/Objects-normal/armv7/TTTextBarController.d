@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTTextBarController.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTextBarController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPopupViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTModelViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTBaseViewController.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTextEditorDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTBaseNavigator.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTextBarDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTButton.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTTextEditor.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/UIViewAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/TTGlobalUICommon.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/UIViewControllerAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20UICommon/UIView+TTUICommon.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTDefaultStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Style/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCoreLocale.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTCorePreprocessorMacros.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/NSStringAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphoneos/../three20/Three20Core/TTGlobalCore.h

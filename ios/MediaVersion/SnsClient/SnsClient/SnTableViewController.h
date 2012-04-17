@@ -10,6 +10,6 @@
 
 @interface SnTableViewController : TTTableViewController
 {
-    TTButton *SntitleView;
+    //TTButton *SntitleView;
 }
 @end

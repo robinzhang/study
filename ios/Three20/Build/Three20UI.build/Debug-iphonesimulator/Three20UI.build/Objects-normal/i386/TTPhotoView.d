@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Sources/TTPhotoView.m \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPhotoView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTImageView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTView.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPhotoVersion.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTImageViewDelegate.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPhoto.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLObject.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTPhotoSource.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/TTLabel.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/Headers/UIViewAdditions.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UI/private/TTImageViewInternal.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/TTGlobalUICommon.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTGlobalStyle.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleSheet.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLCache.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestQueue.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h \
+  /Users/robin/Projects/study/ios/Three20/src/Three20UI/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h
