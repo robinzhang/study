@@ -81,30 +81,37 @@
 
 -(void)createModel
 {   
-    
-    NSString* fozuImgUrl = @"bundle://icon.png";
-     NSString* dizangImgUrl = @"bundle://icon_dizangpus.png";
     self.dataSource = [TTSectionedDataSource dataSourceWithObjects:
-                       @"佛",
-                       [TTTableImageItem itemWithText:@"天堂与地狱" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       @"菩萨",
-                       [TTTableImageItem itemWithText:@"大慈大悲观世音菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       [TTTableImageItem itemWithText:@"解救苦难地藏菩萨" imageURL:dizangImgUrl
-                                                  URL:@"tt://music"],
-                       [TTTableImageItem itemWithText:@"般若智慧文殊菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       [TTTableImageItem itemWithText:@"德行圆满普贤菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       @"罗汉/尊者",
-                       [TTTableImageItem itemWithText:@"智慧第一的舍利弗" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       [TTTableImageItem itemWithText:@"神足第一的目犍连" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       [TTTableImageItem itemWithText:@"拈花心传的大迦叶" imageURL:fozuImgUrl
-                                                  URL:@"tt://music"],
-                       
+                       @"佛典寓言",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://detail?doc=Doc09.html"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://detail?doc=Doc10.html"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://detail?doc=Doc11.html"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://detail/3"],
+                       @"因果报应",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://music"],
+                       @"成败故事",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://music"],
+                       @"智慧故事",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://music"],
+                       @"生活故事",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://music"],
+                       @"感应故事",
+                       [TTTableImageItem itemWithText:@"对面不识佛菩萨(图文)" imageURL:@"bundle://dmbsps.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"给孤独夫妇(图文)" imageURL:@"bundle://gdff.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"贪和爱(图文)" imageURL:@"bundle://tha.png" URL:@"tt://music"],
+                       [TTTableImageItem itemWithText:@"天堂与地狱(图文)" imageURL:@"bundle://ttdy.png" URL:@"tt://music"],
                        nil];
 
 }

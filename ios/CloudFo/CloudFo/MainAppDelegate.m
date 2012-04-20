@@ -76,7 +76,7 @@
     [map            from:@"tt://setting"
     toSharedViewController:[SettingViewController class]];
     
-    [map            from:@"tt://detail"
+    [map            from:@"tt://detail?doc=(initWidthMessageid:)"
     toSharedViewController:[DetailViewController class]];
     
     [navigator openURLAction:[TTURLAction actionWithURLPath:@"tt://main"]];

@@ -23,12 +23,6 @@
 -(void)viewDidLoad
 {
     [super viewDidLoad];
-    TTButton *btn = [TTButton buttonWithStyle:@"blueImgToolbarButton:" title:nil]; 
-    [btn setImage:@"bundle://btn_icon_refresh_wt.png" forState:UIControlStateNormal];
-    [btn addTarget:self action:@selector(doRefresh) forControlEvents:UIControlEventTouchUpInside];
-    [btn setFrame:CGRectMake(0, 0, 36, 34)];
-    
-    self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithCustomView:btn]; 
 }
 
 -(void)viewWillAppear:(BOOL)animated
@@ -88,30 +82,19 @@
 }
 
 - (void) createModel {
-    NSString* fozuImgUrl = @"bundle://icon.png";
-    NSString* rulaiImgUrl = @"bundle://icon_rulai.png";
-    NSString* dizangImgUrl = @"bundle://icon_dizangpus.png";
+    NSString* fozuImgUrl = @"bundle://icon_fz.png";
     self.dataSource = [TTSectionedDataSource dataSourceWithObjects:
                        @"佛",
-                       [TTTableImageItem itemWithText:@"佛陀的一生" imageURL:rulaiImgUrl
-                                                  URL:@"tt://detail"],
+                       [TTTableImageItem itemWithText:@"至尊佛陀的一生" imageURL:fozuImgUrl  URL:@"tt://detail?doc=Doc01.html"],
                        @"菩萨",
-                       [TTTableImageItem itemWithText:@"大慈大悲观世音菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       [TTTableImageItem itemWithText:@"解救苦难地藏菩萨" imageURL:dizangImgUrl
-                                                  URL:@"tt://detail"],
-                       [TTTableImageItem itemWithText:@"般若智慧文殊菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       [TTTableImageItem itemWithText:@"德行圆满普贤菩萨" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
+                       [TTTableImageItem itemWithText:@"大慈大悲观世音菩萨" imageURL:@"bundle://pusa.png" URL:@"tt://detail?doc=Doc02.html"],
+                       [TTTableImageItem itemWithText:@"解救苦难地藏菩萨" imageURL:@"bundle://dz.png"  URL:@"tt://detail?doc=Doc03.html"],
+                       [TTTableImageItem itemWithText:@"般若智慧文殊菩萨" imageURL:@"bundle://ws.png"  URL:@"tt://detail?doc=Doc04.html"],
+                       [TTTableImageItem itemWithText:@"德行圆满普贤菩萨" imageURL:@"bundle://px.png"  URL:@"tt://detail?doc=Doc05.html"],
                        @"罗汉/尊者",
-                       [TTTableImageItem itemWithText:@"智慧第一的舍利弗" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       [TTTableImageItem itemWithText:@"神足第一的目犍连" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       [TTTableImageItem itemWithText:@"拈花心传的大迦叶" imageURL:fozuImgUrl
-                                                  URL:@"tt://detail"],
-                       
+                       [TTTableImageItem itemWithText:@"智慧第一的舍利弗" imageURL:@"bundle://slf.png"  URL:@"tt://detail?doc=Doc06.html"],
+                       [TTTableImageItem itemWithText:@"神足第一的目犍连" imageURL:@"bundle://mjl.png"  URL:@"tt://detail?doc=Doc07.html"],
+                       [TTTableImageItem itemWithText:@"拈花心传的大迦叶" imageURL:@"bundle://djy.png"  URL:@"tt://detail?doc=Doc08.html"],
                        nil];
 }
 
@@ -128,24 +111,7 @@
     self.tableView.rowHeight = 330;
 }
 
-- (void)didSelectObject:(id)object atIndexPath:(NSIndexPath*)indexPath {
-    if ([object isKindOfClass:[TTTableImageItem class]]) {
-        TTTableImageItem *field = object;
-        
-        TTURLAction *action = [[
-                                [TTURLAction actionWithURLPath:@"tt://detail"] 
-                                applyQuery:[NSDictionary dictionaryWithObjectsAndKeys:
-                                            field.text, 
-                                            @"title", 
-                                            nil]]
-                               applyAnimated:YES];
-        [[TTNavigator navigator] openURLAction:action];
-        return;
-        
-    }
-    [super didSelectObject:object atIndexPath:indexPath];
-}
-
+ 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 - (id<UITableViewDelegate>)createDelegate {
     return [[[TTTableViewDragRefreshDelegate alloc] initWithController:self] autorelease];

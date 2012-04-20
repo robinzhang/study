@@ -6,8 +6,9 @@
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
-#import "MyTableViewControler.h"
-
-@interface StoryViewController : MyTableViewControler<TTTabDelegate>
-
+#import <Three20/Three20.h>
+@interface StoryViewController : TTViewController <TTLauncherViewDelegate>
+{
+  TTLauncherView* _launcherView;
+}
 @end

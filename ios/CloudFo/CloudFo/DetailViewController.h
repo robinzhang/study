@@ -12,8 +12,11 @@
     IBOutlet UIWebView *webView;
     UIActivityIndicatorView *activityIndicatorView;
     UIView *opaqueview;
+    NSString *title;
+    NSString *doc_path; 
     
 }
+-(id)initWidthMessageid:(NSString*)doc;
 - (void)loadWebPageWithString:(NSString*)urlString;
 @end
 
